@@ -98,10 +98,8 @@ else
         log "创建新的备份分支: $BACKUP_BRANCH"
         git checkout --orphan "$BACKUP_BRANCH"
         git rm -rf .  # 清理所有文件，但保留分支
-        # 保留重要的配置文件
-        if [ -f "$TEMP_DIR/.gitignore" ]; then
-            cp "$TEMP_DIR/.gitignore" . 2>/dev/null || true
-        fi
+        # 确保备份分支是干净的
+        log "清理备份分支内容完成"
     fi
 fi
 
@@ -134,7 +132,7 @@ log "备份重要本地文件..."
 PROTECTED_BACKUP_DIR="/tmp/protected_backup_$(date +%s)"
 mkdir -p "$PROTECTED_BACKUP_DIR"
 
-# 备份重要文件
+# 备份重要文件（从当前分支备份，不是从TEMP_DIR）
 for file in "${PROTECTED_FILES[@]}"; do
     if [ -e "$file" ]; then
         log "备份保护文件: $file"
@@ -158,6 +156,11 @@ done
 
 # 清理临时备份目录
 rm -rf "$PROTECTED_BACKUP_DIR" 2>/dev/null || true
+
+# 确保sync.log不会被Git跟踪
+if [ -f "sync.log" ]; then
+    rm -f sync.log 2>/dev/null || true
+fi
 
 # 添加所有更改
 log "添加文件到Git..."
