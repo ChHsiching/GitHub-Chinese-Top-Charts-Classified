@@ -26,13 +26,13 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.GH_TOKEN }}
         fetch-depth: 0  # 获取完整历史
 
     - name: Configure Git
       run: |
-        git config --global user.name "GitHub Actions Bot"
-        git config --global user.email "actions@github.com"
+        git config --global user.name "ChHsiching"
+        git config --global user.email "hsichingchang@gmail.com"
 
     - name: Display environment info
       run: |
