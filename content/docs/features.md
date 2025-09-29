@@ -1,4 +1,4 @@
-[< 返回](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜)
+[< 返回](https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜)
 
 # 项目特色亮点
 

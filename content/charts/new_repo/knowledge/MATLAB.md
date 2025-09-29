@@ -1,19 +1,23 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > MATLAB
-<sub>数据更新: 2024-06-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[LiZhengXiao99/Navigation-Learning](https://github.com/LiZhengXiao99/Navigation-Learning)|我的导航学习笔记，内容涵盖导航定位开源程序的源码解读 ( 包括：RTKLIB、GAMP、GINav、Ginan、PSINS、SoftGNSS、KF-GINS、ORB-SLAM3、GICI-Lib 等)、各种导航设备的使用方式、书籍讲义、博客翻译、开源项目梳理、常用网站记录、Linux/Vim/Git/ROS/VSCode 常用命令；本仓库会长期更新，分享出来，跟大家做个交流，也激励着自己坚持学下去 ...|566|2024-06-01|2023-08-08|
-|2|[kyiree/SuperEngineer](https://github.com/kyiree/SuperEngineer)|个人学习记录|30|2024-05-26|2024-02-15|
-|3|[StZhang-B/PKU-Millimeter-Wave-Radar-Tutorial](https://github.com/StZhang-B/PKU-Millimeter-Wave-Radar-Tutorial)|本项目是为了PKU & BJTU大二学生本研轮转而创，内容包含了对毫米波雷达基础知识的总结、基于IWR1843的原始ADC数据处理、FMCW-MIMO毫米波雷达仿真、基于点云的人体追踪Demo、基于热力图的人体定位demo、手势识别demo和毫米波雷达生命体征检测Demo|20|2024-04-25|2024-03-11|
-|4|[highskyno1/MIMO_DOA](https://github.com/highskyno1/MIMO_DOA)|MIMO阵列信号来向DOA估计实现~含FOCUSS、OMP、贝叶斯学习(SBL)等稀疏重构法和常规、子空间法、空间平滑滤波法|12|2024-01-30|2024-01-30|
-|5|[Teddy-Liao/Beauty-of-Control-using-Matlab](https://github.com/Teddy-Liao/Beauty-of-Control-using-Matlab)|复制了《控制之美卷2》书籍提供的Octave源代码，并用Matlab进行部分复现。|11|2024-05-31|2023-12-14|
-|6|[guguguhy/ISAC](https://github.com/guguguhy/ISAC)|SEU SISE 毕业设计 ISAC通感一体化论文阅读与代码复现|11|2023-12-12|2023-11-29|
-|7|[Z-G-Zhou/PUMA560-kinematics-and-trajectory_planning](https://github.com/Z-G-Zhou/PUMA560-kinematics-and-trajectory_planning)|本项目为归档项目包，不再更新维护，该项目可作为机器人相关专业的本科生和研究生进行学习和参考的资料。 项目首先对PUMA560机械臂的基本结构和参数进行了介绍，对其运动学特性进行了分析并给出了正逆运动学的完整算法。其次，建立了PUMA560的三维模型，制作了机器人的URDF网格可视化文件，并在Simulink中开发了机械臂的可视化仿真框架。最后，分别基于关节空间和笛卡尔空间对机械臂进行了轨迹规划并在 ...|9|2024-03-13|2024-03-13|
-|8|[Han-0107/Scientific_Computing_of_CSU](https://github.com/Han-0107/Scientific_Computing_of_CSU)|中南大学-科学计算与程序应用课程资料（包括作业、上机实践、课程设计）|8|2023-12-15|2023-11-08|
-|9|[fangrxkami/AWR1243](https://github.com/fangrxkami/AWR1243)|用于记录分享AWR1243+DCA1000的使用方法|6|2024-02-04|2024-02-01|
+|1|[bhu619/Beauty-of-Control-Systems-Notebook](https://github.com/bhu619/Beauty-of-Control-Systems-Notebook)|记录在Bilibili上关注UP主DR_CAN的视频教程以及相关书籍课程的学习笔记。|25|2024-12-22|2024-04-02|
+|2|[pipimamaoyuan/XJTU-automation-undergraduate-all-Learning-Materials-](https://github.com/pipimamaoyuan/XJTU-automation-undergraduate-all-Learning-Materials-)|西安交通大学自动化专业本科生学习资料 XJTU automation undergraduate all Learning Materials|18|2025-01-07|2024-06-23|
+|3|[LuoPoJunZi/Learn](https://github.com/LuoPoJunZi/Learn)|不断学习，一起进步|10|2024-12-22|2024-08-23|
+|4|[sylvanding/bit-numerical-analysis-hw](https://github.com/sylvanding/bit-numerical-analysis-hw)|⭐️ 北京理工大学数值分析《数值计算方法》丁丽娟-数值实验作业（MATLAB）和课后作业|9|2024-12-04|2024-09-18|
+|5|[Waldosia-jiang/Ally](https://github.com/Waldosia-jiang/Ally)|路径规划与轨迹跟踪系列算法学习|7|2025-02-27|2025-02-27|
+|6|[LHH-iMin/Modern_Digital_Signal_Processing-MDSP](https://github.com/LHH-iMin/Modern_Digital_Signal_Processing-MDSP)|中国科学院大学电子学院专业核心课-现代数字信号处理课程资料-张颢老师|6|2025-03-16|2025-01-01|
+|7|[JimmyChenkk/Southeast-University-School-of-Automation-and-Control-Science-course-resource](https://github.com/JimmyChenkk/Southeast-University-School-of-Automation-and-Control-Science-course-resource)|东南大学自动化学院课程资料共享仓库，涉及实验报告、项目代码、课件、课本答案、参考书等学习资料，详见README.md|5|2025-03-07|2025-02-22|
+|8|[Qin-mian/HUST_AIA_course_learn](https://github.com/Qin-mian/HUST_AIA_course_learn)|记录我自己的复习笔记，希望有助于后人（）|4|2025-01-08|2024-11-02|
+|9|[StellarHai/LaoWang_autodriving_control](https://github.com/StellarHai/LaoWang_autodriving_control)|B站忠厚老实的老王自动驾驶控制算法笔者代码及笔记|3|2025-02-05|2025-02-02|
+|10|[OptimusHimself/MCM](https://github.com/OptimusHimself/MCM)|swj, fxy, zwy MCM group only. 内部资料分享|3|2025-01-27|2024-12-26|
+|11|[FastFish523/YiJiang-Automatica-2023-code](https://github.com/FastFish523/YiJiang-Automatica-2023-code)|代码为原作者提供，本仓库仅用作个人学习。添加部分注释|3|2024-10-14|2024-10-14|
+|12|[WDMX820/MCM_Ref.-Summ.](https://github.com/WDMX820/MCM_Ref.-Summ.)|各类数学建模竞赛常见题型参考代码汇总|3|2024-10-22|2024-10-07|
+|13|[zl0125/SAR-](https://github.com/zl0125/SAR-)|学习与课程实践使用|3|2025-01-07|2024-09-09|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -22,4 +26,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

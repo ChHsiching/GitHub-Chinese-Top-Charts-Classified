@@ -1,4 +1,4 @@
-[< 返回](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜)
+[< 返回](https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜)
 
 # 重要更新记录
 
@@ -13,5 +13,5 @@
   - 新增了8个语言分榜；
 - 2021年11月30日
   - 增大收录门槛，移除涉及违规、敏感项目；
-- 2019年9月5日
+- 2019年9月
   - 项目初始发布；

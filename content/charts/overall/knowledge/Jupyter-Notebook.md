@@ -1,168 +1,139 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Jupyter Notebook
-<sub>数据更新: 2024-06-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[wesm/pydata-book](https://github.com/wesm/pydata-book)|Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media|21468|2023-12-22|
-|2|[fastai/fastbook](https://github.com/fastai/fastbook)|The fastai book, published as Jupyter Notebooks|20933|2024-05-16|
-|3|[selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching)|One has no future if one couldn't teach themself.|15034|2024-06-01|
-|4|[chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book)|PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)|11794|2023-12-24|
-|5|[yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook)|《Python Cookbook》 3rd Edition Translation|11487|2024-04-12|
-|6|[datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)|面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版|9901|2024-05-27|
-|7|[datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl)|强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/|8370|2024-06-01|
-|8|[datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)|《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程|4788|2024-06-01|
-|9|[datawhalechina/joyful-pandas](https://github.com/datawhalechina/joyful-pandas)|pandas中文教程|4389|2024-04-24|
-|10|[AccumulateMore/CV](https://github.com/AccumulateMore/CV)|✔（已完结）最全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】|4222|2024-06-01|
-|11|[Visualize-ML/Book1_Python-For-Beginners](https://github.com/Visualize-ML/Book1_Python-For-Beginners)|Book_1_《编程不难》   鸢尾花书：从加减乘除到机器学习；请多多批评指正！|3671|2024-03-16|
-|12|[huggingface/diffusion-models-class](https://github.com/huggingface/diffusion-models-class)|Materials for the Hugging Face Diffusion Models Course|3267|2024-04-11|
-|13|[MLEveryday/practicalAI-cn](https://github.com/MLEveryday/practicalAI-cn)|AI实战-practicalAI 中文版|3232|2023-12-31|
-|14|[datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe)|本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/|2999|2024-05-14|
-|15|[williamyang1991/Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video)|[SIGGRAPH Asia 2023] Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation|2905|2024-03-09|
-|16|[ben1234560/AiLearning-Theory-Applying](https://github.com/ben1234560/AiLearning-Theory-Applying)|快速上手Ai理论及应用实战：基础知识、Transformer、NLP、ML、DL、竞赛。含大量注释及数据集，力求每一位能看懂并复现。|2904|2024-05-28|
-|17|[PaddlePaddle/awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning)|深度学习入门课、资深课、特色课、学术案例、产业实践案例、深度学习知识百科及面试题库The course, case and knowledge of Deep Learning and AI|2878|2024-05-11|
-|18|[L1aoXingyu/code-of-learn-deep-learning-with-pytorch](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)|This is code of book "Learn Deep Learning with PyTorch"|2745|2024-03-04|
-|19|[gedeck/practical-statistics-for-data-scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)|Code repository for O'Reilly book|2484|2024-02-12|
-|20|[Visualize-ML/Book5_Essentials-of-Probability-and-Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics)|Book_5_《统计至简》     鸢尾花书：从加减乘除到机器学习；上架！|2448|2024-03-16|
-|21|[Charmve/computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action)|A computer vision closed-loop learning platform where code can be run interactively online. 学习闭环《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 📘 在线电子书 https://charmve.github.io/computer-vision-in-action/ ...|2436|2024-05-27|
-|22|[szcf-weiya/ESL-CN](https://github.com/szcf-weiya/ESL-CN)|The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答。|2374|2024-04-28|
-|23|[Visualize-ML/Book2_Beauty-of-Data-Visualization](https://github.com/Visualize-ML/Book2_Beauty-of-Data-Visualization)|Book_2_《可视之美》     鸢尾花书：从加减乘除到机器学习，欢迎批评指正|2233|2024-03-16|
-|24|[openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)|📚 Jupyter notebook tutorials for OpenVINO™|2054|2024-05-31|
-|25|[datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)|PyTorch入门教程，在线阅读地址：https://datawhalechina.github.io/thorough-pytorch/|2041|2024-05-28|
-|26|[Visualize-ML/Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)|Book_7_《机器学习》     鸢尾花书：从加减乘除到机器学习；欢迎批评指正|1927|2024-03-16|
-|27|[datawhalechina/statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual)|统计学习方法习题解答，在线阅读地址：https://datawhalechina.github.io/statistical-learning-method-solutions-manual|1624|2024-05-03|
-|28|[Visualize-ML/Book6_First-Course-in-Data-Science](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science)|Book_6_《数据有道》     鸢尾花书：从加减乘除到机器学习；欢迎大家批评指正！纠错多的同学会得到赠书感谢！|1579|2024-04-06|
-|29|[YangLing0818/RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster)|[ICML 2024] Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (PRG)|1536|2024-05-26|
-|30|[luwill/Machine_Learning_Code_Implementation](https://github.com/luwill/Machine_Learning_Code_Implementation)|Mathematical derivation and pure Python code implementation of machine learning algorithms.|1486|2024-02-01|
-|31|[huggingface/cookbook](https://github.com/huggingface/cookbook)|Open-source AI cookbook|1395|2024-05-30|
-|32|[EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning)|Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.|1380|2024-05-30|
-|33|[zyds/transformers-code](https://github.com/zyds/transformers-code)|手把手带你实战 Huggingface Transformers 课程视频同步更新在B站与YouTube|1309|2024-04-06|
-|34|[TradeMaster-NTU/TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster)|TradeMaster is an open-source platform for quantitative trading empowered by reinforcement learning :fire: :zap: :rainbow:|1206|2024-02-28|
-|35|[CNFeffery/DataScienceStudyNotes](https://github.com/CNFeffery/DataScienceStudyNotes)|这个仓库保管从（数据科学学习手札69）开始的所有代码、数据等相关附件内容|1201|2024-04-25|
-|36|[datawhalechina/hands-on-data-analysis](https://github.com/datawhalechina/hands-on-data-analysis)|动手学数据分析以项目为主线，知识点孕育其中，通过边学、边做、边引导来得到更好的学习效果|1077|2024-05-29|
-|37|[loveunk/machine-learning-deep-learning-notes](https://github.com/loveunk/machine-learning-deep-learning-notes)|机器学习、深度学习的学习路径及知识总结|1029|2024-01-09|
-|38|[unit-mesh/unit-minions](https://github.com/unit-mesh/unit-minions)|《AI 研发提效研究：自己动手训练 LoRA》，包含 Llama  （Alpaca LoRA）模型、ChatGLM （ChatGLM Tuning）相关 Lora 的训练。训练内容：用户故事生成、测试代码生成、代码辅助生成、文本转 SQL、文本生成代码……|995|2024-01-03|
-|39|[OML-Team/open-metric-learning](https://github.com/OML-Team/open-metric-learning)|Library for metric learning pipelines and models.|784|2024-06-01|
-|40|[MorvanZhou/easy-scraping-tutorial](https://github.com/MorvanZhou/easy-scraping-tutorial)|Simple but useful Python web scraping tutorial code. |766|2024-04-07|
-|41|[AI4Finance-Foundation/FinRL-Tutorials](https://github.com/AI4Finance-Foundation/FinRL-Tutorials)|Tutorials. Please star. |727|2024-04-30|
-|42|[aialgorithm/Blog](https://github.com/aialgorithm/Blog)|Python机器学习算法技术博客，有原创干货！有code实践！ 【更多内容敬请关注公众号 "算法进阶"】|721|2024-02-27|
-|43|[xuwenhao/geektime-ai-course](https://github.com/xuwenhao/geektime-ai-course)|Jupyter Notebooks for Geektime AI Course|713|2024-03-18|
-|44|[WTFAcademy/WTF-zk](https://github.com/WTFAcademy/WTF-zk)|零知识证明入门教程。Comprehensive Zero-Knowledge Proofs Tutorial. #zk #WIP|699|2024-05-31|
-|45|[SMILELab-FL/FedLab](https://github.com/SMILELab-FL/FedLab)|A flexible Federated Learning Framework based on PyTorch, simplifying your Federated Learning research.|680|2024-01-31|
-|46|[ChileWang0228/Deep-Learning-With-Python](https://github.com/ChileWang0228/Deep-Learning-With-Python)|《Python深度学习》书籍代码|611|2024-01-30|
-|47|[analyticalmindsltd/smote_variants](https://github.com/analyticalmindsltd/smote_variants)|A collection of 85 minority oversampling techniques (SMOTE) for imbalanced learning with multi-class oversampling and model selection features|607|2024-01-03|
-|48|[bobo0810/PytorchNetHub](https://github.com/bobo0810/PytorchNetHub)|项目注释+论文复现+算法竞赛+Pytorch实践|598|2024-02-18|
-|49|[MetaGLM/glm-cookbook](https://github.com/MetaGLM/glm-cookbook)|Examples and guides for using the GLM APIs|580|2024-05-30|
-|50|[fry404006308/fry_course_materials](https://github.com/fry404006308/fry_course_materials)|范仁义录播课资料，会依次推出各种完全免费的前端、后端、大数据、人工智能等课程，课程网站： https://fanrenyi.com  ； b站课程地址： https://space.bilibili.com/45664489  ；|560|2024-05-31|
-|51|[datawhalechina/machine-learning-toy-code](https://github.com/datawhalechina/machine-learning-toy-code)|《机器学习》（西瓜书）代码实战|557|2024-02-23|
-|52|[zkywsg/Daily-DeepLearning](https://github.com/zkywsg/Daily-DeepLearning)|🔥机器学习/深度学习/Python/算法面试/自然语言处理教程/剑指offer/machine learning/deeplearning/Python/Algorithm interview/NLP Tutorial|556|2024-04-08|
-|53|[Luhuanz/pytorch_project](https://github.com/Luhuanz/pytorch_project)|llms 大模型 笔记50篇 此仓库包含关于机器学习、深度学习、计算机视觉、自然语言处理、大模型 爬虫等领域 项目实战|522|2024-04-24|
-|54|[qiguming/MLAPP_CN_CODE](https://github.com/qiguming/MLAPP_CN_CODE)|《Machine Learning: A Probabilistic Perspective》（Kevin P. Murphy）中文翻译和书中算法的Python实现。|522|2024-04-07|
-|55|[amaargiru/pycore](https://github.com/amaargiru/pycore)|Python Extended Cheatsheet. I'm using this repository to chronicle my journey through Python.|492|2024-05-16|
-|56|[NJUPTFreeExams/NJUPT-General-Free-Exams](https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams)|南京邮电大学通识课程历年资料。|462|2024-02-02|
-|57|[AccumulateMore/OpenCV](https://github.com/AccumulateMore/OpenCV)|✔（已完结）最全面的 OpenCV 笔记【咕泡唐宇迪】|459|2024-05-16|
-|58|[dmarx/anthology-of-modern-ml](https://github.com/dmarx/anthology-of-modern-ml)|Collection of important articles to be treated as a textbook|442|2024-04-05|
-|59|[AccumulateMore/CPlusPlus](https://github.com/AccumulateMore/CPlusPlus)|✔（已完结）最全面的 C++ 笔记 【黑马程序员】|431|2024-05-15|
-|60|[CyberZHG/CLRS](https://github.com/CyberZHG/CLRS)|Some exercises and problems in Introduction to Algorithms 3rd edition.|429|2024-03-02|
-|61|[zgcr/SimpleAICV_pytorch_training_examples](https://github.com/zgcr/SimpleAICV_pytorch_training_examples)|SimpleAICV:pytorch training and testing examples.|404|2024-06-01|
-|62|[charent/Phi2-mini-Chinese](https://github.com/charent/Phi2-mini-Chinese)|Phi2-Chinese-0.2B 从0开始训练自己的Phi2中文小模型，支持接入langchain加载本地知识库做检索增强生成RAG。Training your own Phi2 small chat model from scratch.|403|2024-02-19|
-|63|[HuangCongQing/3D-Point-Clouds](https://github.com/HuangCongQing/3D-Point-Clouds)|🔥3D点云目标检测&语义分割(深度学习)-SOTA方法,代码,论文,数据集等|381|2024-04-10|
-|64|[DjangoPeng/LLM-quickstart](https://github.com/DjangoPeng/LLM-quickstart)|Quick Start for Large Language Models (Theoretical Learning and Practical Fine-tuning) 大语言模型快速入门（理论学习与微调实战）|329|2024-03-25|
-|65|[AccumulateMore/Python](https://github.com/AccumulateMore/Python)|✔（已完结）最全面的 Python 笔记【马士兵教育】|328|2024-05-15|
-|66|[yangqy1110/Diffusion-Models](https://github.com/yangqy1110/Diffusion-Models)|扩散模型原理和pytorch代码实现初学资料汇总|325|2024-04-19|
-|67|[JamesLavin/my_tech_resources](https://github.com/JamesLavin/my_tech_resources)|List of tech resources future me and other Javascript/Ruby/Python/Elixir/Elm developers might find useful|309|2024-05-04|
-|68|[ZitongLu1996/Python-EEG-Handbook-CN](https://github.com/ZitongLu1996/Python-EEG-Handbook-CN)|Python脑电数据处理中文手册 - A Chinese handbook for EEG data analysis based on Python|303|2024-04-05|
-|69|[jinhualee/datashine](https://github.com/jinhualee/datashine)|《Python统计与数据分析实战》课程代码，包含了大部分统计与非参数统计和数据分析的模型、算法。回归分析、方差分析、点估计、假设检验、主成分分析、因子分析、聚类分析、判别分析、对数线性模型、分位回归模型以及列联表分析、非参数平滑、非参数密度估计等各种非参数统计方法。|292|2024-04-23|
-|70|[datawhalechina/d2l-ai-solutions-manual](https://github.com/datawhalechina/d2l-ai-solutions-manual)|《动手学深度学习》习题解答，在线阅读地址如下：|277|2024-05-10|
-|71|[zhangjunhd/reading-notes](https://github.com/zhangjunhd/reading-notes)|张俊的读书笔记|277|2024-04-26|
-|72|[microsoft/AIforEarthDataSets](https://github.com/microsoft/AIforEarthDataSets)|Notebooks and documentation for AI-for-Earth-managed datasets on Azure|266|2024-04-17|
-|73|[XingYu-Zhong/LangChainStudy](https://github.com/XingYu-Zhong/LangChainStudy)|这个项目是一个Jupyter notebook的集合，专门用于学习和探索LangChain框架。|230|2024-01-16|
-|74|[fire717/Machine-Learning](https://github.com/fire717/Machine-Learning)|机器学习&深度学习资料笔记&基本算法实现&资源整理（ML / CV / NLP / DM...）|211|2024-02-05|
-|75|[kingname/SourceCodeofMongoRedis](https://github.com/kingname/SourceCodeofMongoRedis)|《左手MongoDB，右手Redis——从入门到商业实战》书籍配套源代码。|209|2024-02-17|
-|76|[newaetech/chipwhisperer-jupyter](https://github.com/newaetech/chipwhisperer-jupyter)|Interactive ChipWhisperer tutorials using Jupyter notebooks.|198|2024-05-27|
-|77|[ArronAI007/Awesome-AGI](https://github.com/ArronAI007/Awesome-AGI)|AGI资料汇总学习（主要包括LLM和AIGC），持续更新......|197|2024-05-27|
-|78|[LecterChu/nwpu-cram](https://github.com/LecterChu/nwpu-cram)|西北工业大学/西工大/nwpu/npu软件学院复习(突击)资料！！|195|2024-05-30|
-|79|[pariskang/CMLM-ZhongJing](https://github.com/pariskang/CMLM-ZhongJing)|首个中医大语言模型——“仲景”。受古代中医学巨匠张仲景深邃智慧启迪，专为传统中医领域打造的预训练大语言模型。  The first-ever Traditional Chinese Medicine large language model - "CMLM-ZhongJing". Inspired by the profound wisdom of the ancient Chinese medi ...|192|2024-05-31|
-|80|[zju-isee/zju-isee](https://github.com/zju-isee/zju-isee)|浙江大学电子科学与技术专业部分课程仓库|186|2023-12-05|
-|81|[zui0711/Z-Lab](https://github.com/zui0711/Z-Lab)|Z Lab数据实验室开源代码汇总|180|2024-02-27|
-|82|[dream80/TonyColab](https://github.com/dream80/TonyColab)|Colab script collection for various amazing projects!                   各种牛逼项目的Colab脚本集合！|172|2024-05-31|
-|83|[yinizhilian/nlp-materials-share](https://github.com/yinizhilian/nlp-materials-share)|自然语言处理NLP（自然语言生成NLG、自然语言理解NLU）、自然语言学术会议大盘点、自然语言大佬介绍、NLP研究机构、NLP资料分享、NLP学习资源分享、NLP学术论文介绍|172|2024-05-14|
-|84|[sijichun/MathStatsCode](https://github.com/sijichun/MathStatsCode)|Codes for my mathematical statistics course|168|2023-12-17|
-|85|[Kedreamix/Pytorch-Image-Classification](https://github.com/Kedreamix/Pytorch-Image-Classification)|用于pytorch的图像分类，包含多种模型方法，比如AlexNet，VGG，GoogleNet，ResNet，DenseNet等等，包含可完整运行的代码。除此之外，也有colab的在线运行代码，可以直接在colab在线运行查看结果。也可以迁移到自己的数据集进行迁移学习。|165|2023-12-07|
-|86|[Robin-WZQ/BIT-AI-Review](https://github.com/Robin-WZQ/BIT-AI-Review)|本项目分享了本人在北京理工大学计算机学院人工智能专业的相关课程资料与经验分享。希望对你们有所帮助❤️，如果喜欢的话记得给个star哦🌟|133|2024-01-14|
-|87|[WTFAcademy/WTF-EVM-Opcodes](https://github.com/WTFAcademy/WTF-EVM-Opcodes)|Minimal tutorials for EVM Opcodes, building minimal evm in python from scratch. 以太坊的Opcodes（操作码）极简教程，使用python从零搭建EVM。|130|2024-05-23|
-|88|[2811668688/ZJU-CS](https://github.com/2811668688/ZJU-CS)|这里是我对浙江大学混合班CS的一些课程的资料整理，希望能给予看到的朋友一些帮助。|115|2024-03-30|
-|89|[buluslee/DT-AI](https://github.com/buluslee/DT-AI)|这是DT-AI的学习路线开源版本，欢迎大家享用！对新手友好|112|2024-05-06|
-|90|[princepride/scratch-pytorch-step-by-step](https://github.com/princepride/scratch-pytorch-step-by-step)|教你只用最基本的python语法和numpy一步步实现深度学习框架|107|2024-04-16|
-|91|[zillionare/zillionare](https://github.com/zillionare/zillionare)|请访问 😄www.jieyu.ai和公众号🫶量化风云|106|2024-05-28|
-|92|[solidglue/Machine_Learning_Sklearn_Examples](https://github.com/solidglue/Machine_Learning_Sklearn_Examples)|机器学习Sklearn入门指南。Machine Learning Sklearn API and Examples with Python3 and Jupyter Notebook.|104|2024-05-20|
-|93|[ZhiningLiu1998/mesa](https://github.com/ZhiningLiu1998/mesa)|[NeurIPS’20] ⚖️ Build powerful ensemble class-imbalanced learning models via meta-knowledge-powered resampler.   设计元知识驱动的采样器解决类别不平衡问题|104|2024-05-03|
-|94|[HugoBlox/theme-blog](https://github.com/HugoBlox/theme-blog)|📝 Hugo Academic Blog Theme. 轻松创建一个简约博客. No code, highly customizable using widgets.|103|2024-05-19|
-|95|[ScienceLi1125/CQU-Study](https://github.com/ScienceLi1125/CQU-Study)|重庆大学计算机学院学习资料|98|2024-04-17|
-|96|[batermj/data_sciences_campaign](https://github.com/batermj/data_sciences_campaign)|【数据科学家系列课程】|98|2024-05-03|
-|97|[ConnectAI-E/LangChain-Tutior](https://github.com/ConnectAI-E/LangChain-Tutior)|⛓ LangChain 入门指南，配套吴恩达老师deeplearning.ai课程  😎复现语言：Python、NodeJs、Golang|96|2024-01-03|
-|98|[solidglue/Deep_Learning_TensorFlow2_Examples](https://github.com/solidglue/Deep_Learning_TensorFlow2_Examples)|深度学习TensorFlow2入门指南。Deep Learning TensorFlow2  API and Examples with Python3 and Jupyter Notebook.|94|2024-05-20|
-|99|[yunwei37/openai-cookbook-zh-cn](https://github.com/yunwei37/openai-cookbook-zh-cn)|使用 OpenAI API 的例子和中文指南（自动持续更新 OpenAI 官方文档）|90|2024-03-17|
-|100|[gkm0120/Graph-Neural-Network-Papers](https://github.com/gkm0120/Graph-Neural-Network-Papers)|图神经网络、图卷积网络、图注意力网络、图自编码网络、时空图神经网络等论文合集。|82|2024-02-27|
-|101|[ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses)|Notes for Courses in School of Data Science, Fudan University. 复旦大学数据科学与大数据技术专业（复旦大数据）学习笔记。|81|2024-04-24|
-|102|[charliedream1/ai_wiki](https://github.com/charliedream1/ai_wiki)|《AI工程师的自我修养》（电子书及代码资源）：记载工程实践问题的解决策略与关键要点，分享各种实用案例，追踪前沿技术发展，囊括 AI 全栈知识，涵盖大模型、编程技术、机器学习、深度学习、强化学习、图神经网络、语音识别、NLP 及图像识别等领域|80|2024-05-29|
-|103|[datawhalechina/hands-dirty-nlp](https://github.com/datawhalechina/hands-dirty-nlp)|本课程面对具有一定机器学习基础，但尚未入门的NLPer或经验尚浅的NLPer，尽力避免陷入繁琐枯燥的公式讲解中，力求用代码展示每个模型背后的设计思想，同时也会带大家梳理每个模块下的技术演变，做到既知树木也知森林。|77|2023-12-17|
-|104|[hwdqm88/pattern-recognition-807](https://github.com/hwdqm88/pattern-recognition-807)|《模式识别（第三版）》（张学工）学习笔记+2024真题，清华大学深圳研究生院人工智能专业考研807专业课|76|2024-04-01|
-|105|[bytechina/openai-cookbook-zh](https://github.com/bytechina/openai-cookbook-zh)|OpenAI API官方使用指南（中文修订版）Examples and guides for using the OpenAI API（Chinese）|76|2024-03-17|
-|106|[fan2goa1/BIT-CS-UnderGraduate](https://github.com/fan2goa1/BIT-CS-UnderGraduate)|这个仓库存放了北京理工大学计科专业相关课程资料，欢迎Star & PR。|66|2024-01-11|
-|107|[Ifan24/GPT_subtitles](https://github.com/Ifan24/GPT_subtitles)|Download YouTube video (or supply your own) and generate dual languange subtitles with OpenAI Whisper and translation API (GPT)                                下载 YouTube 视频（或提供您自己的视频）并使用 Whisper 和翻译AP ...|64|2024-05-07|
-|108|[IKMLab/course_material](https://github.com/IKMLab/course_material)|上課教材的大集合！！！|61|2024-04-23|
-|109|[Allenpandas/BJTU-SCIT-Notebook](https://github.com/Allenpandas/BJTU-SCIT-Notebook)|👨‍🎓 北京交通大学计算机与信息技术学院研究生课程资料、笔记、回忆和整理的期末考试卷及课程作业。希望对你们有所帮助❤️，如果喜欢记得给个star🌟|60|2024-04-26|
-|110|[Relph1119/my-team-learning](https://github.com/Relph1119/my-team-learning)|我的Datawhale组队学习，在线阅读地址：https://relph1119.github.io/my-team-learning|57|2024-03-03|
-|111|[hxchua/datadoubleconfirm](https://github.com/hxchua/datadoubleconfirm)|Simple datasets and notebooks for data visualization, statistical analysis and modelling - with write-ups here: http://projectosyo.wix.com/datadoubleconfirm. |57|2024-05-21|
-|112|[datawhalechina/zishu](https://github.com/datawhalechina/zishu)|wow-fullstack，令人惊叹的全栈开发教程|55|2024-05-30|
-|113|[XiaShan1227/GNN-Tutorial](https://github.com/XiaShan1227/GNN-Tutorial)|B站GNN教程资料|53|2024-04-11|
-|114|[wdndev/llama3-from-scratch-zh](https://github.com/wdndev/llama3-from-scratch-zh)|从零实现一个 llama3 中文版|52|2024-05-30|
-|115|[datawhalechina/wow-plotly](https://github.com/datawhalechina/wow-plotly)|高级可视化神器plotly的学习|51|2024-01-12|
-|116|[liyucheng09/NLP_Freshman](https://github.com/liyucheng09/NLP_Freshman)|给研一同学的NLP入门指南|51|2024-05-24|
-|117|[AccumulateMore/Spider](https://github.com/AccumulateMore/Spider)|✔（已完结）最全面的 爬虫与数据库 笔记|49|2024-05-15|
-|118|[lgy0404/d2l-2023](https://github.com/lgy0404/d2l-2023)|✔️（持续更新）李沐 【动手学深度学习v2 PyTorch版】课程学习笔记，更正了AccumulateMore笔记的部分错误，从更加初级的角度做了部分内容补充|48|2024-05-10|
-|119|[personqianduixue/comap_crawler_2023](https://github.com/personqianduixue/comap_crawler_2023)|美赛爬虫，2022美赛获奖证书爬虫，2023美赛获奖证书爬虫，2024美赛获奖证书爬虫|46|2024-05-26|
-|120|[coggle-club/notebooks](https://github.com/coggle-club/notebooks)|数据科学教程案例|42|2024-05-11|
-|121|[yenlung/Python-AI-Book](https://github.com/yenlung/Python-AI-Book)|《少年Py的大冒險》第二集, 深度學習的入門!|42|2023-12-19|
-|122|[cfcys/nanoGPT-Tutorial-CN](https://github.com/cfcys/nanoGPT-Tutorial-CN)|更友好的nanoGPT的中文教程|41|2024-05-17|
-|123|[HITSZ-OpenAuto/PHYS1002](https://github.com/HITSZ-OpenAuto/PHYS1002)|HITSZ 大学物理实验 实验报告、数据处理及绘图程序等资料|41|2024-05-19|
-|124|[Winn1y/Show2Know](https://github.com/Winn1y/Show2Know)|基于科研论文导向的可视化绘图集锦|41|2024-05-26|
-|125|[ruoxining/ZJUCourse](https://github.com/ruoxining/ZJUCourse)|ZJU课程资料，主要含英语+CS专业课，不含不合适公开的资料和违反honor code的作业|41|2024-04-21|
-|126|[liangruibupt/aws-is-how](https://github.com/liangruibupt/aws-is-how)|Know How Guide and Hands on Guide for AWS|41|2024-05-28|
-|127|[limingzhong61/LearningNotes](https://github.com/limingzhong61/LearningNotes)|学习笔记|40|2024-03-25|
-|128|[windmaple/Gemma-Chinese-instruction-tuning](https://github.com/windmaple/Gemma-Chinese-instruction-tuning)|演示Gemma中文指令微调的教程|39|2024-02-26|
-|129|[fscdc/NKU-CS-FSC](https://github.com/fscdc/NKU-CS-FSC)|NKU CS的基本所有课程code和report(更新中)|37|2024-02-20|
-|130|[CloneNOX/MSA-BiGCN](https://github.com/CloneNOX/MSA-BiGCN)|中山大学2022届本科生毕业论文《基于注意力机制和图卷积神经网络的多任务谣言检测》代码实现和baseline代码。现采用BERT作为编码器，实现了新的模型。|37|2024-04-25|
-|131|[Gandedong/audit-python-](https://github.com/Gandedong/audit-python-)|这个是一个财务审计与python相关的教学分享仓库，帮助有需要的朋友在财务领域上走得更远更高。|37|2024-03-19|
-|132|[hitlic/python_book](https://github.com/hitlic/python_book)|清华大学出版社《Python从入门到提高》源代码、课件|36|2024-02-01|
-|133|[Gengzhige/Deep-Learning-Code](https://github.com/Gengzhige/Deep-Learning-Code)|《深度学习必修课：进击算法工程师》配套代码|35|2024-01-06|
-|134|[AccumulateMore/NLP](https://github.com/AccumulateMore/NLP)|✔最全面的 深度学习NLP 笔记|34|2024-05-15|
-|135|[huangjia2019/ai-agents](https://github.com/huangjia2019/ai-agents)|异步图书 大模型应用开发 动手做AI Agent|33|2024-06-01|
-|136|[aceliuchanghong/FAQ_Of_LLM_Interview](https://github.com/aceliuchanghong/FAQ_Of_LLM_Interview)|大模型算法岗面试题(含答案):常见问题和概念解析 "大模型面试题"、"算法岗面试"、"面试常见问题"、"大模型算法面试"、"大模型应用基础"|33|2024-05-26|
-|137|[lingwsh/ben_tech_python](https://github.com/lingwsh/ben_tech_python)|小白学Python课程资料|33|2023-12-31|
-|138|[wx-chevalier/Mathematics-Notes](https://github.com/wx-chevalier/Mathematics-Notes)|:books: [.md & .ipynb] 人工智能与深度学习实战--数理统计与数据分析篇|32|2024-05-26|
-|139|[realyanyang/disambiguation](https://github.com/realyanyang/disambiguation)|OAG-WhoIsWho 赛道二 代码分享|30|2024-05-03|
-|140|[chen2438/zstu-study](https://github.com/chen2438/zstu-study)|zstu 浙江理工大学 学习资料|28|2024-04-27|
-|141|[yujunkuo/ML2022-Homework](https://github.com/yujunkuo/ML2022-Homework)|[機器學習 110-2@NTU] 課程作業|28|2023-12-20|
-|142|[WTFAcademy/WTF-web3py](https://github.com/WTFAcademy/WTF-web3py)|我们最近在重新学web3py，巩固一下细节，也写一个“WTF web3py极简入门”，供小白们使用，每周更新1-3讲。|27|2024-02-15|
-|143|[NAOSI-DLUT/DLUT_ISE_Courses](https://github.com/NAOSI-DLUT/DLUT_ISE_Courses)|大连理工大学软国专业课程指南,请同学们踊跃发言和@dingsio|27|2024-06-01|
-|144|[RealKai42/langchainjs-juejin](https://github.com/RealKai42/langchainjs-juejin)|从前端到 AI：langchain.js 入门和实战|26|2024-05-17|
-|145|[Starlight0798/NKU-share](https://github.com/Starlight0798/NKU-share)|NKU计网学院各个课程作业|25|2024-04-09|
-|146|[unimauro/QuantumResources](https://github.com/unimauro/QuantumResources)|Here Quantum Resources like: Book, Papers, Videos|25|2024-01-02|
-|147|[qianniucity/llm_notebooks](https://github.com/qianniucity/llm_notebooks)|AI 应用示例合集|24|2024-05-24|
-|148|[ShaoQiBNU/uplift_model_notes](https://github.com/ShaoQiBNU/uplift_model_notes)|uplift模型业界应用总结|24|2024-05-17|
-|149|[Zenobia000/MachineLearning-ds-fundamental](https://github.com/Zenobia000/MachineLearning-ds-fundamental)|機器學習/深度學習理論程式大全|24|2024-05-25|
-|150|[wklchris/blog](https://github.com/wklchris/blog)|个人 Github.io 站点上的博客文章   Blogs on my Github.io site|24|2024-06-01|
-|151|[HuichuanLI/GraphNeuralNetWork](https://github.com/HuichuanLI/GraphNeuralNetWork)|玩转图神经网络和知识图谱的相关算法：GCN,GAT,GAFM,GAAFM,GraphSage,W2V,TRANSe|24|2024-04-27|
-|152|[iHeadWater/iheadwater_hackweek_tutorials](https://github.com/iHeadWater/iheadwater_hackweek_tutorials)|水资源科研编程入门教程|23|2024-04-15|
-|153|[pangbo13/Courses](https://github.com/pangbo13/Courses)|本项目保存了本人在上海交通大学计算机科学与技术专业部分课程学习过程中的作业与项目代码。|22|2024-03-10|
-|154|[xiaomeng79/learning_notes](https://github.com/xiaomeng79/learning_notes)|学习笔记|21|2024-04-02|
-|155|[stuser/temp](https://github.com/stuser/temp)|公開分享檔案暫存區|20|2023-12-07|
-|156|[LinglingGreat/StudySum](https://github.com/LinglingGreat/StudySum)|学习过程中的笔记梳理与总结|19|2024-04-01|
-|157|[binzhouchn/machine_learning](https://github.com/binzhouchn/machine_learning)|抽象来讲，机器学习问题是把数据转换成信息再提炼到知识的过程，特征是“数据-->信息”的过程，决定了结果的上限，而分类器是“信息-->知识”的过程，则是去逼近这个上限|19|2024-01-23|
-|158|[rwepa/DataDemo](https://github.com/rwepa/DataDemo)|提供資料集與範例分享.|17|2023-12-27|
+|1|[datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)|面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版|16551|2025-02-25|
+|2|[datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)|《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程|14272|2025-03-22|
+|3|[datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl)|强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/|10789|2025-03-28|
+|4|[modelscope/facechain](https://github.com/modelscope/facechain)|FaceChain is a deep-learning toolchain for generating your Digital-Twin.|9360|2024-12-10|
+|5|[Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix)|Book_4_《矩阵力量》     鸢尾花书：从加减乘除到机器学习；上架！|9195|2025-02-01|
+|6|[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)|10 Lessons to Get Started Building AI Agents|9045|2025-03-28|
+|7|[AccumulateMore/CV](https://github.com/AccumulateMore/CV)|✔（已完结）最全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】|8684|2024-12-26|
+|8|[xianhu/LearnPython](https://github.com/xianhu/LearnPython)|以撸代码的形式学习Python|7882|2025-01-05|
+|9|[01-ai/Yi](https://github.com/01-ai/Yi)|A series of large language models trained from scratch by developers @01-ai|7830|2024-11-27|
+|10|[datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe)|本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/|7420|2025-03-28|
+|11|[Visualize-ML/Book3_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)|Book_3_《数学要素》     鸢尾花书：从加减乘除到机器学习；上架；欢迎继续纠错，纠错多的同学还会有赠书！|6830|2025-01-26|
+|12|[huggingface/diffusion-models-class](https://github.com/huggingface/diffusion-models-class)|Materials for the Hugging Face Diffusion Models Course|3945|2025-02-12|
+|13|[Visualize-ML/Book5_Essentials-of-Probability-and-Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics)|Book_5_《统计至简》     鸢尾花书：从加减乘除到机器学习；上架！|3223|2025-02-06|
+|14|[microsoft/PhiCookBook](https://github.com/microsoft/PhiCookBook)|This is a Phi Family of SLMs book for getting started with Phi Models. Phi a family of open sourced AI models developed by Microsoft. Phi models are the most capable and cost-effective small language  ...|3138|2025-03-31|
+|15|[gedeck/practical-statistics-for-data-scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)|Code repository for O'Reilly book|2945|2025-01-07|
+|16|[datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)|PyTorch入门教程，在线阅读地址：https://datawhalechina.github.io/thorough-pytorch/|2921|2025-02-23|
+|17|[openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)|📚 Jupyter notebook tutorials for OpenVINO™|2696|2025-03-31|
+|18|[szcf-weiya/ESL-CN](https://github.com/szcf-weiya/ESL-CN)|The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答。|2530|2025-03-20|
+|19|[Kedreamix/Linly-Dubbing](https://github.com/Kedreamix/Linly-Dubbing)|智能视频多语言AI配音/翻译工具 - Linly-Dubbing — “AI赋能，语言无界”|2270|2025-03-05|
+|20|[luhengshiwo/LLMForEverybody](https://github.com/luhengshiwo/LLMForEverybody)|每个人都能看懂的大模型知识分享，LLMs春/秋招大模型面试前必看，让你和面试官侃侃而谈|2086|2025-03-30|
+|21|[huggingface/cookbook](https://github.com/huggingface/cookbook)|Open-source AI cookbook|1951|2025-03-17|
+|22|[fengdu78/WZU-machine-learning-course](https://github.com/fengdu78/WZU-machine-learning-course)|温州大学《机器学习》课程资料（代码、课件等）|1914|2025-01-01|
+|23|[WTFAcademy/WTF-zk](https://github.com/WTFAcademy/WTF-zk)|零知识证明入门教程。Comprehensive Zero-Knowledge Proofs Tutorial. #zk #WIP|1838|2025-02-22|
+|24|[TradeMaster-NTU/TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster)|TradeMaster is an open-source platform for quantitative trading empowered by reinforcement learning :fire: :zap: :rainbow:|1779|2025-02-25|
+|25|[YangLing0818/RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster)|[ICML 2024] Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (RPG)|1778|2025-02-01|
+|26|[loveunk/machine-learning-deep-learning-notes](https://github.com/loveunk/machine-learning-deep-learning-notes)|机器学习、深度学习的学习路径及知识总结|1778|2025-01-26|
+|27|[datawhalechina/key-book](https://github.com/datawhalechina/key-book)|《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解。|1606|2025-03-26|
+|28|[EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning)|Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.|1562|2024-12-26|
+|29|[CNFeffery/DataScienceStudyNotes](https://github.com/CNFeffery/DataScienceStudyNotes)|这个仓库保管从（数据科学学习手札69）开始的所有代码、数据等相关附件内容|1365|2024-12-30|
+|30|[openwhu/OpenWHU](https://github.com/openwhu/OpenWHU)|武汉大学课程资料整理-WHU课代表计划|1332|2025-03-17|
+|31|[google-gemini/gemma-cookbook](https://github.com/google-gemini/gemma-cookbook)|A collection of guides and examples for the Gemma open models from Google.|1238|2025-03-25|
+|32|[wyf3/llm_related](https://github.com/wyf3/llm_related)|记录大模型相关的一些知识和方法|1170|2025-03-22|
+|33|[AI4Finance-Foundation/FinRL-Tutorials](https://github.com/AI4Finance-Foundation/FinRL-Tutorials)|FinRL® Tutorials. Please star. |965|2025-03-28|
+|34|[MetaGLM/glm-cookbook](https://github.com/MetaGLM/glm-cookbook)|Examples and guides for using the GLM APIs|856|2025-02-11|
+|35|[datawhalechina/machine-learning-toy-code](https://github.com/datawhalechina/machine-learning-toy-code)|《机器学习》（西瓜书）代码实战|782|2024-10-13|
+|36|[aceliuchanghong/FAQ_Of_LLM_Interview](https://github.com/aceliuchanghong/FAQ_Of_LLM_Interview)|大模型算法岗面试题(含答案):常见问题和概念解析 "大模型面试题"、"算法岗面试"、"面试常见问题"、"大模型算法面试"、"大模型应用基础"|767|2024-10-07|
+|37|[DjangoPeng/LLM-quickstart](https://github.com/DjangoPeng/LLM-quickstart)|Quick Start for Large Language Models (Theoretical Learning and Practical Fine-tuning) 大语言模型快速入门（理论学习与微调实战）|750|2024-10-18|
+|38|[dmarx/anthology-of-modern-ml](https://github.com/dmarx/anthology-of-modern-ml)|Collection of important articles to be treated as a textbook|725|2025-01-27|
+|39|[SUC-DriverOld/so-vits-svc-Deployment-Documents](https://github.com/SUC-DriverOld/so-vits-svc-Deployment-Documents)|So-VITS-SVC 本地部署使用帮助文档，提供Colab笔记本 So-VITS-SVC Local Deployment Document and provide Colab notebook|700|2025-03-31|
+|40|[zkywsg/Daily-DeepLearning](https://github.com/zkywsg/Daily-DeepLearning)|🔥机器学习/深度学习/Python/大模型/多模态/LLM/deeplearning/Python/Algorithm interview/NLP Tutorial|697|2025-03-02|
+|41|[bbruceyuan/Hands-On-Large-Language-Models-CN](https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN)|中文翻译的 Hands-On-Large-Language-Models (hands-on-llms)，动手学习大模型|694|2025-02-04|
+|42|[bobo0810/PytorchNetHub](https://github.com/bobo0810/PytorchNetHub)|项目注释+论文复现+算法竞赛+Pytorch实践+LeetCode|666|2025-01-17|
+|43|[amaargiru/pycore](https://github.com/amaargiru/pycore)|Python Extended Cheatsheet. I'm using this repository to chronicle my journey through Python.|595|2025-03-30|
+|44|[qiguming/MLAPP_CN_CODE](https://github.com/qiguming/MLAPP_CN_CODE)|《Machine Learning: A Probabilistic Perspective》（Kevin P. Murphy）中文翻译和书中算法的Python实现。|593|2025-02-15|
+|45|[AccumulateMore/OpenCV](https://github.com/AccumulateMore/OpenCV)|✔（已完结）最全面的 OpenCV 笔记【咕泡唐宇迪】|580|2024-12-26|
+|46|[therealoliver/Deepdive-llama3-from-scratch](https://github.com/therealoliver/Deepdive-llama3-from-scratch)|Achieve the llama3 inference step-by-step, grasp the core concepts, master the process derivation, implement the code.|561|2025-02-24|
+|47|[MLNLP-World/LLMs-from-scratch-CN](https://github.com/MLNLP-World/LLMs-from-scratch-CN)|LLMs-from-scratch项目中文翻译|561|2025-02-08|
+|48|[AccumulateMore/CPlusPlus](https://github.com/AccumulateMore/CPlusPlus)|✔（已完结）最全面的 C++ 笔记 【黑马程序员】|542|2024-12-26|
+|49|[HuangCongQing/3D-Point-Clouds](https://github.com/HuangCongQing/3D-Point-Clouds)|🔥3D点云目标检测&语义分割(深度学习)-SOTA方法,代码,论文,数据集等|510|2025-01-20|
+|50|[AccumulateMore/Python](https://github.com/AccumulateMore/Python)|✔（已完结）最全面的 Python 笔记【马士兵教育】|474|2024-12-26|
+|51|[wanZzz6/Modules-Learn](https://github.com/wanZzz6/Modules-Learn)|学习笔记 - 码云：https://gitee.com/wanzheng_96/Modules-Learn）|462|2024-11-17|
+|52|[mindspore-courses/step_into_llm](https://github.com/mindspore-courses/step_into_llm)|MindSpore online courses: Step into LLM|455|2025-01-06|
+|53|[zgcr/SimpleAICV_pytorch_training_examples](https://github.com/zgcr/SimpleAICV_pytorch_training_examples)|SimpleAICV:pytorch training and testing examples.|430|2025-03-13|
+|54|[KarryRen/SCU-CS-Class-Materials](https://github.com/KarryRen/SCU-CS-Class-Materials)|四川大学计算机学院本科课程资料（更新中 🔥）如果您觉得有帮助，还请点亮一下 Star 🌟 哦~ 万分感谢！|423|2025-03-30|
+|55|[WengLean/hands-on-research-tutorial](https://github.com/WengLean/hands-on-research-tutorial)|《动手做科研》面向科研初学者，一步一步地展示如何入门人工智能科研|357|2025-03-02|
+|56|[charliedream1/ai_wiki](https://github.com/charliedream1/ai_wiki)|《AI全栈-全网优秀资源搜集站》：搜集全网优秀资源，记载工程实践问题的解决策略与关键要点，分享各种实用案例，追踪前沿技术发展，囊括 AI 全栈知识，涵盖大模型、编程技术、机器学习、深度学习、强化学习、图神经网络、语音识别、NLP 及图像识别等领域|354|2025-03-31|
+|57|[ArronAI007/Awesome-AGI](https://github.com/ArronAI007/Awesome-AGI)|AGI资料汇总学习（主要包括LLM和AIGC），持续更新......|347|2025-01-20|
+|58|[zhangjunhd/reading-notes](https://github.com/zhangjunhd/reading-notes)|张俊的读书笔记|346|2024-10-03|
+|59|[htylab/machine-learning-python](https://github.com/htylab/machine-learning-python)|機器學習: Python|331|2024-12-16|
+|60|[pariskang/CMLM-ZhongJing](https://github.com/pariskang/CMLM-ZhongJing)|首个中医大语言模型——“仲景”。受古代中医学巨匠张仲景深邃智慧启迪，专为传统中医领域打造的预训练大语言模型。  The first-ever Traditional Chinese Medicine large language model - "CMLM-ZhongJing". Inspired by the profound wisdom of the ancient Chinese medi ...|323|2025-03-12|
+|61|[LecterChu/nwpu-cram](https://github.com/LecterChu/nwpu-cram)|西北工业大学/西工大/nwpu/npu软件学院复习(突击)资料！！|316|2024-12-16|
+|62|[huangjia2019/ai-agents](https://github.com/huangjia2019/ai-agents)|异步图书 《大模型应用开发 动手做AI Agent》 - 这是一些非常简单的入门示例，重在引导新手入门，目前LLM开发领域发展很快，本书只是一个提纲挈领。更多的示例和代码大家可以去OpenAI Cookbook, LangChain Example中去挖掘。|315|2024-10-10|
+|63|[JamesLavin/my_tech_resources](https://github.com/JamesLavin/my_tech_resources)|List of tech resources future me and other Javascript/Ruby/Python/Elixir/Elm developers might find useful|311|2025-03-17|
+|64|[microsoft/AIforEarthDataSets](https://github.com/microsoft/AIforEarthDataSets)|Notebooks and documentation for AI-for-Earth-managed datasets on Azure|294|2024-12-17|
+|65|[newaetech/chipwhisperer-jupyter](https://github.com/newaetech/chipwhisperer-jupyter)|Interactive ChipWhisperer tutorials using Jupyter notebooks.|261|2025-03-20|
+|66|[bbruceyuan/AI-Interview-Code](https://github.com/bbruceyuan/AI-Interview-Code)|LLM大模型（重点）以及搜广推等 AI 算法中手写的面试题，（非 LeetCode），比如 Self-Attention, AUC等，一般比 LeetCode 更考察一个人的综合能力，又更贴近业务和基础知识一点|215|2024-12-29|
+|67|[GenTang/regression2chatgpt](https://github.com/GenTang/regression2chatgpt)|《解构大语言模型：从线性回归到通用人工智能》配套代码|188|2025-01-03|
+|68|[Hoper-J/HUNG-YI_LEE_Machine-Learning_Homework](https://github.com/Hoper-J/HUNG-YI_LEE_Machine-Learning_Homework)|李宏毅 (HUNG-YI LEE）机器学习作业思路代码分享|183|2024-11-30|
+|69|[yinizhilian/nlp-materials-share](https://github.com/yinizhilian/nlp-materials-share)|自然语言处理NLP（自然语言生成NLG、自然语言理解NLU）、自然语言学术会议大盘点、自然语言大佬介绍、NLP研究机构、NLP资料分享、NLP学习资源分享、NLP学术论文介绍|183|2025-03-03|
+|70|[zillionare/zillionare](https://github.com/zillionare/zillionare)|请访问 😄www.jieyu.ai和公众号🫶量化风云|178|2025-03-31|
+|71|[Robin-WZQ/BIT-AI-Review](https://github.com/Robin-WZQ/BIT-AI-Review)|本项目分享了本人在北京理工大学计算机学院人工智能专业的相关课程资料与经验分享。希望对你们有所帮助❤️，如果喜欢的话记得给个star哦🌟|175|2025-03-26|
+|72|[sijichun/MathStatsCode](https://github.com/sijichun/MathStatsCode)|Codes for my mathematical statistics course|173|2024-11-26|
+|73|[Nipi64310/RAG-Book](https://github.com/Nipi64310/RAG-Book)|本项目为书籍《大模型RAG实战》的代码以及资料汇总。|167|2024-11-18|
+|74|[Allenpandas/BJTU-CS-Notebook](https://github.com/Allenpandas/BJTU-CS-Notebook)|👨‍🎓 北京交通大学计算机科学与技术学院研究生课程资料、笔记、回忆和整理的期末考试卷及课程作业。希望对你们有所帮助❤️，如果喜欢记得给个star🌟|166|2025-02-23|
+|75|[lgy112112/Efficient-KAN-in-Chinese](https://github.com/lgy112112/Efficient-KAN-in-Chinese)|给中文KAN学习者和开发者准备的各种KAN的详细的中文注释+使用例子|164|2025-03-07|
+|76|[datawhalechina/wow-fullstack](https://github.com/datawhalechina/wow-fullstack)|wow-fullstack，令人惊叹的全栈开发教程|163|2025-03-31|
+|77|[Winn1y/Show2Know](https://github.com/Winn1y/Show2Know)|基于科研论文导向的可视化绘图集锦|155|2025-02-27|
+|78|[2811668688/ZJU-CS](https://github.com/2811668688/ZJU-CS)|这里是我对浙江大学混合班CS的一些课程的资料整理，希望能给予看到的朋友一些帮助。|149|2025-03-05|
+|79|[coggle-club/notebooks](https://github.com/coggle-club/notebooks)|数据科学教程案例|138|2024-12-24|
+|80|[Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization](https://github.com/Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization)|”数学不难“  之  《线性代数》；每周上传一个视频，一组对应的学习资料（trying my best，争取不鸽)！欢迎大家批评指正！能不能出书，要看能不能写完...|131|2025-03-27|
+|81|[ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses)|Notes for Courses in School of Data Science, Fudan University. 复旦大学数据科学与大数据技术专业（复旦大数据）学习笔记。|129|2025-03-14|
+|82|[HugoBlox/theme-blog](https://github.com/HugoBlox/theme-blog)|📝 Hugo Academic Blog Theme. 轻松创建一个简约博客. No code, highly customizable using widgets.|117|2024-11-04|
+|83|[xccds/Python_AI_Game](https://github.com/xccds/Python_AI_Game)|《Python AI游戏编程入门》配套代码库|110|2024-12-14|
+|84|[ForceInjection/AI-fundermentals](https://github.com/ForceInjection/AI-fundermentals)|AI 基础知识 - GPU 架构、CUDA 编程以及大模型基础知识|102|2025-03-30|
+|85|[batermj/data_sciences_campaign](https://github.com/batermj/data_sciences_campaign)|【数据科学家系列课程】|101|2025-03-15|
+|86|[Kamichanw/SEU-Course-Homework](https://github.com/Kamichanw/SEU-Course-Homework)|东南大学计软智部分课程作业。|93|2025-03-20|
+|87|[jingtian11/EasyOffer](https://github.com/jingtian11/EasyOffer)|《EasyOffer》（<大模型面经合集>）是针对LLM宝宝们量身打造的大模型暑期实习Offer指南，主要记录大模型暑期实习和秋招准备的一些常见大厂手撕代码、大厂面经经验、常见大厂思考题等；小白一个，正在学习ing......有问题各位大佬随时指正，希望大家都能拿到心仪Offer！|92|2025-03-25|
+|88|[chen2438/zstu-study](https://github.com/chen2438/zstu-study)|zstu 浙江理工大学 学习资料|87|2025-03-17|
+|89|[IKMLab/course_material](https://github.com/IKMLab/course_material)|上課教材的大集合！！！|86|2024-11-30|
+|90|[LiaoPan/MNE-Cookbook](https://github.com/LiaoPan/MNE-Cookbook)|使用MNE-python过程中的小技巧,即如何处理MEG/EEG信号数据.|82|2024-11-19|
+|91|[realyinchen/RAG](https://github.com/realyinchen/RAG)|RAG 系列教程源码仓库|74|2025-03-29|
+|92|[chinobing/QuantInvest](https://github.com/chinobing/QuantInvest)|cnvar.cn及个人微信公众号【QuantInvest】里面提及的编程代码, 对股票各种研究和折腾分析A股市场的各种现象和投资机会，涉及编程、股票模型、分析研究、杂谈等，代码是python，以jupyter notebook展示。|73|2024-12-21|
+|93|[AFAN-LIFE/AFAN-LIFE](https://github.com/AFAN-LIFE/AFAN-LIFE)|B站UP AFAN的金融科技 的资料汇总|69|2025-03-31|
+|94|[fscdc/NKU-CS-FSC](https://github.com/fscdc/NKU-CS-FSC)|NKU CS的基本所有课程code和report(更新中)|66|2025-03-13|
+|95|[AccumulateMore/Spider](https://github.com/AccumulateMore/Spider)|✔（已完结）最全面的 爬虫与数据库 笔记|66|2024-12-26|
+|96|[OrvilleX/MachineLearning](https://github.com/OrvilleX/MachineLearning)|本项目以应用为主出发，结合了从基础的机器学习、深度学习到目标检测以及目前最新的大模型，采用目前成熟的 第三方库、开源预训练模型以及相关论文的最新技术，目的是记录学习的过程同时也进行分享以供更多人可以直接进行使用。|66|2025-03-02|
+|97|[golfxiao/ScratchLLMStepByStep](https://github.com/golfxiao/ScratchLLMStepByStep)|一个手把手教你从零开始编写GPT并训练大语言模型的教程|65|2025-01-20|
+|98|[HITSZ-OpenAuto/PHYS1002](https://github.com/HITSZ-OpenAuto/PHYS1002)|HITSZ 大学物理实验实验报告、数据处理及绘图程序等资料|65|2025-03-24|
+|99|[Zenobia000/MachineLearning-ds-fundamental](https://github.com/Zenobia000/MachineLearning-ds-fundamental)|機器學習理論程式大全|64|2024-11-30|
+|100|[66my/-PhySO-](https://github.com/66my/-PhySO-)|这是物理学公式拟合工具 PhySO（Φ-SO）库的中文注释项目，帮助需要快速入门此工具的中国科研人员初步熟悉该工具的使用|61|2024-12-13|
+|101|[AccumulateMore/NLP](https://github.com/AccumulateMore/NLP)|✔最全面的 深度学习NLP 笔记|56|2024-12-26|
+|102|[liangruibupt/aws-is-how](https://github.com/liangruibupt/aws-is-how)|Know How Guide and Hands on Guide for AWS|55|2025-03-25|
+|103|[wx-chevalier/CG-Notes](https://github.com/wx-chevalier/CG-Notes)|:book: 计算机图形学、计算机视觉、图像与媒体处理、图形绘制（Canvas、Three.js、WebGL）、图表与数据可视化|53|2025-03-13|
+|104|[Blissful-Jasper/jianpu_record](https://github.com/Blissful-Jasper/jianpu_record)|用来存放公众号的一些源代码|45|2025-03-29|
+|105|[CloneNOX/rumor-detection-based-on-GNNs](https://github.com/CloneNOX/rumor-detection-based-on-GNNs)|中山大学2022届本科生毕业论文《基于注意力机制和图卷积神经网络的多任务谣言检测》代码实现和baseline代码。现采用BERT作为编码器，实现了新的模型。|44|2025-01-10|
+|106|[chg0901/yolo_master](https://github.com/chg0901/yolo_master)|yolo master 本课程主要对yolo系列模型进行介绍，包括各版本模型的结构，进行的改进等，旨在帮助学习者们可以了解和掌握主要yolo模型的发展脉络，以期在各自的应用领域可以进一步创新并在自己的任务上达到较好的效果。|41|2025-03-12|
+|107|[Tangerineeew/Selenium-basedXiaohongshuCrawler](https://github.com/Tangerineeew/Selenium-basedXiaohongshuCrawler)|基于Selenium模拟浏览器行为的小红书关键词搜索和笔记爬取|41|2024-11-23|
+|108|[thdlrt/CsNotes](https://github.com/thdlrt/CsNotes)|NJUCS（计算机金融）个人学习笔记|40|2025-03-31|
+|109|[KuRRe8/eeemsc-coursework](https://github.com/KuRRe8/eeemsc-coursework)|NTU EEE master 项目笔记作业习题答案分享|38|2025-01-20|
+|110|[motewei/hml-solutions](https://github.com/motewei/hml-solutions)|《动手学机器学习》习题解答|36|2025-03-30|
+|111|[2001guanhao/backtest_frame_single_factor](https://github.com/2001guanhao/backtest_frame_single_factor)|量化投资回测框架，包含回测框架、投资组合优化器和单因子测试三个模块。通过该框架，用户仅需提供因子数据，即可完成完整的回测流程，并对策略进行深入分析。框架支持并行计算，能够在大数据量的情况下快速运行。框架粗糙，还有太多可改进之处，非常欢迎大家一起来体验使用，参与改进，量化学习不应该闭门造车、讳莫如深，愿和CS、AI领域一样有开源的精神。|35|2024-11-14|
+|112|[GISer2000/daily_learning](https://github.com/GISer2000/daily_learning)|分享代码写作日常|35|2025-03-04|
+|113|[tj-messi/cv-computer-visual-tj](https://github.com/tj-messi/cv-computer-visual-tj)|同济大学计算机视觉实验室学习|35|2024-10-25|
+|114|[wx-chevalier/Mathematics-Notes](https://github.com/wx-chevalier/Mathematics-Notes)|:books: [.md & .ipynb] 人工智能与深度学习实战--数理统计与数据分析篇|34|2025-02-04|
+|115|[RiverTwilight/Awesome-Machine-Learning-Playground](https://github.com/RiverTwilight/Awesome-Machine-Learning-Playground)|🌟 Dive into the world of machine learning with three no-framework, beginner-friendly models.    基于项目的机器学习入门理论详解。|33|2024-12-24|
+|116|[LeoMooreCST/CQUCS-Study](https://github.com/LeoMooreCST/CQUCS-Study)|CQU重庆大学计算机学院课程学习资料21级起(大二至大三)|31|2024-10-25|
+|117|[bettermorn/IAICourse](https://github.com/bettermorn/IAICourse)|工业智能课程内容|31|2025-02-17|
+|118|[NAOSI-DLUT/DLUT_ISE_Courses](https://github.com/NAOSI-DLUT/DLUT_ISE_Courses)|大连理工大学软国专业课程指南,请同学们踊跃发言和@dingsio|31|2024-11-07|
+|119|[dekrt/Reports](https://github.com/dekrt/Reports)|HUST SSE Courses Reports   华科软件学院课程报告|30|2024-12-23|
+|120|[Z-J-wang/render-jupyter-notebook-vue](https://github.com/Z-J-wang/render-jupyter-notebook-vue)|The render-jupyter-notebook-vue is a vue component that renders the notebook file in vue. render-jupyter-notebook-vue是一个vue组件，实现了notebook文件在vue中的渲染。|29|2025-03-03|
+|121|[zhuozhiyongde/Fundamentals-of-Artificial-Intelligence-2024Spring-PKU](https://github.com/zhuozhiyongde/Fundamentals-of-Artificial-Intelligence-2024Spring-PKU)|北京大学 2024 年春季人工智能（AI 基础）基础课程笔记、作业|28|2025-03-27|
+|122|[mcxiaoxiao/annotated-transformer-Chinese](https://github.com/mcxiaoxiao/annotated-transformer-Chinese)|Transformer 论文 Attention is All You Need 的 pytorch 中文注释代码实现，翻译自harvardnlp/annotated-transformer|28|2025-01-19|
+|123|[chunhuizhang/full_stack](https://github.com/chunhuizhang/full_stack)|必要的计算机科学及软件开发知识|28|2025-03-12|
+|124|[muchuang1024/python-examples](https://github.com/muchuang1024/python-examples)|我的python语言学习代码|28|2024-11-18|
+|125|[xiaozhi-agi/qwen_1_8chat_finetune](https://github.com/xiaozhi-agi/qwen_1_8chat_finetune)|基于lora微调Qwen1.8chat的实战教程|27|2024-10-09|
+|126|[godfanmiao/PyAI-Github-2024](https://github.com/godfanmiao/PyAI-Github-2024)|《 Python人工智能编程实践（2024年度版）》全书数据和开源代码|27|2024-11-25|
+|127|[P4nda0s/sec-agent-tutorials](https://github.com/P4nda0s/sec-agent-tutorials)|网络安全 LLM 智能体应用教程|26|2025-03-02|
+|128|[Discrete-Mathematics/ai-self-learning](https://github.com/Discrete-Mathematics/ai-self-learning)|中国矿业大学（北京）智远AI社培训资料|26|2025-03-31|
+|129|[xiaomeng79/learning_notes](https://github.com/xiaomeng79/learning_notes)|学习笔记|25|2025-03-12|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -171,4 +142,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

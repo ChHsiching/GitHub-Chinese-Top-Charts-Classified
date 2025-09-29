@@ -1,30 +1,25 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Objective-C
-<sub>数据更新: 2024-06-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13986|2024-05-29|
-|2|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2844|2024-05-27|
-|3|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1714|2024-05-30|
-|4|[HeathWang/HWPanModal](https://github.com/HeathWang/HWPanModal)|HWPanModal presents controller from bottom and drag to dismiss, high customize. iOS13 default modalPresentationStyle. 任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|1133|2024-05-30|
-|5|[tangtiancheng/DouYinComment](https://github.com/tangtiancheng/DouYinComment)|1.抖音视频转场动画,抖音左滑push进个人主页, 评论手势拖拽效果 , 视频播放, 边下边播, 预加载, TikTok 2.网易云iOS小组件,动态Widget,时钟组件,风扇组件,滚动照片组件, 帧动画小组件  3.铃声多多,上传铃声音频到库乐队(GarageBand) 4.微博主页、简书主页等。多页面嵌套列表分页滚动，上下滑动，左右滑动切换页面。类似TableView共用HeaderView ...|518|2024-05-25|
-|6|[debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)|FFmpeg step by step tutorials for iOS/macOS developer. （适合零基础的 iOS/macOS 开发者学习FFmpeg API 和音视频渲染技术。演示了 OpenGL 和 Metal 等多种视频渲染方式，以及使用 AudioUnit 和 AudioQueue 渲染不同格式的音频。）|280|2024-01-15|
-|7|[molon/MLLayout](https://github.com/molon/MLLayout)|Flexbox in Objective-C, using Facebook's css-layout.|251|2024-04-09|
-|8|[FrizzleFur/DailyLearning](https://github.com/FrizzleFur/DailyLearning)|My Daily Learning~|60|2024-02-05|
-|9|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|38|2024-05-29|
-|10|[erduoniba/HDTranslateModule](https://github.com/erduoniba/HDTranslateModule)|iOS多语言解决方案大全：半自动化+特殊场景手动解决项目中的多语言问题|35|2024-01-22|
-|11|[webersongao/DMBlog_iOS](https://github.com/webersongao/DMBlog_iOS)|wordpress博客移动iOS版，点击链接了解更多：|22|2024-03-05|
-|12|[XLsn0w/XLsn0w](https://github.com/XLsn0w/XLsn0w)|🔥🔥🔥联系我:XLsn00w@gmail.com   微信公众号: Cydia   Cydia官方源: https://xlsn0w.github.io/tweaks/ 🔥🔥🔥|20|2024-05-03|
-|13|[aolan/iOS_Develop](https://github.com/aolan/iOS_Develop)|该文档都是日常开发过程中解决问题的经验总结。|13|2024-05-31|
-|14|[GardenerYun/iOS--Note](https://github.com/GardenerYun/iOS--Note)|iOS研究笔记|11|2024-04-17|
-|15|[CarvenChen/p12ToPemBuilder](https://github.com/CarvenChen/p12ToPemBuilder)|一个简单的Mac版小工具，可以一键处理p12文件，生成.pem证书。 目前测试过了iOS开发中APNS的推送证书，可以完美运行。|9|2024-05-08|
-|16|[nicolastinkl/Crach-haosexiansheng](https://github.com/nicolastinkl/Crach-haosexiansheng)|破解好色先生协议，编写协议抓取python脚本，以及批量获取数据和视频的核心技巧|5|2024-02-03|
-|17|[lijingpei2016/Photic](https://github.com/lijingpei2016/Photic)|音视频学习demo|5|2024-01-21|
-|18|[huangboju/Study](https://github.com/huangboju/Study)|一些学习的东西|4|2024-03-30|
-|19|[BinHanDev/BlogDemo](https://github.com/BinHanDev/BlogDemo)|博客中的Demo及其他|3|2024-05-08|
-|20|[zpfate/FlutterCookbook](https://github.com/zpfate/FlutterCookbook)|Flutter初学，各组件学习使用Demo|2|2024-05-17|
+|1|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2970|2025-03-14|
+|2|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1891|2025-03-31|
+|3|[SmileZXLee/IpaDownloadTool](https://github.com/SmileZXLee/IpaDownloadTool)|输入下载页面链接自动解析ipa下载地址，支持本地下载和分享，支持自动处理UDID描述文件，支持第三方和自定义下载页面(通过拦截webView的itms-services://请求解析plist文件，支持各类企业版、内测包ipa下载)|696|2025-03-13|
+|4|[gnou/FakeZhihuDaily](https://github.com/gnou/FakeZhihuDaily)|仿知乎日报iOS客户端|127|2024-11-02|
+|5|[rztime/RZColorful](https://github.com/rztime/RZColorful)|NSAttributedString富文本的方法集合，以及简单优雅的使用其多种属性|72|2025-03-17|
+|6|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|41|2025-03-28|
+|7|[skyming/Study](https://github.com/skyming/Study)|学习日志记录/笔记，涉及 LLM，AI Agent，客户端、前端、后端等相关领域技能知识|26|2025-03-21|
+|8|[zhangxistudy11/KnowledgeSummaryOfObjectC](https://github.com/zhangxistudy11/KnowledgeSummaryOfObjectC)|本项目集合了我写的很多Demo，以及封装的工具类，大部分Demo的实现思路、技巧、细节我都会对应一篇简书的文章：http://www.jianshu.com/u/c4d558e26604   |6|2024-10-26|
+|9|[bingoogolapple/OCNote-PartOne](https://github.com/bingoogolapple/OCNote-PartOne)|OC学习笔记第一部分|5|2024-12-10|
+|10|[HemingTai/HTProject](https://github.com/HemingTai/HTProject)|记录平时的学习心得，包括AFN、SD、GCD、Socket...|4|2025-03-18|
+|11|[LoSenTrad/LSTCategory](https://github.com/LoSenTrad/LSTCategory)|LSTCategory是一个分类集合通用组件|4|2025-03-13|
+|12|[vio-ez/eznote](https://github.com/vio-ez/eznote)|支言 EZNote - 状态栏随手笔记工具 macOS statusbar quick note tool|3|2024-12-13|
+|13|[huangchangweng/HLTool](https://github.com/huangchangweng/HLTool)|iOS开发工具类集合|2|2024-12-02|
+|14|[pulinghao/iOSLearn](https://github.com/pulinghao/iOSLearn)|iOS学习|2|2024-12-24|
+|15|[Splendent/iOS-OSX-study-notes](https://github.com/Splendent/iOS-OSX-study-notes)|學習cocoa的瑣碎筆記|2|2024-10-16|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -33,4 +28,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

@@ -1,14 +1,18 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Kotlin
-<sub>数据更新: 2024-06-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant)|有手就会 《构建你自己的 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。|461|2024-05-22|2023-12-25|
-|2|[open-toys-controller/open-DGLAB-controller](https://github.com/open-toys-controller/open-DGLAB-controller)|郊狼3.0 API网络控制器. 支持任意编程语言. 郊狼socket控制器开发教程|38|2024-05-27|2024-03-12|
-|3|[WaitFme/BiliBiliAndYou](https://github.com/WaitFme/BiliBiliAndYou)|借鉴学习BiliYou，哔哩等优秀作品。个人学习Compose UI的练习作品|19|2024-03-14|2023-07-17|
-|4|[xiaowine/DSP](https://github.com/xiaowine/DSP)|一个SharedPreferences和XSharedPreferences的封装库|9|2024-05-27|2023-09-30|
+|1|[Xigong93/XiaoZhuan](https://github.com/Xigong93/XiaoZhuan)|《小篆传包》一键上传Apk到多个应用市场，开源，免费|119|2025-03-15|2024-06-04|
+|2|[wgllss/WXNetArchitecture](https://github.com/wgllss/WXNetArchitecture)|花式封装:Kotlin+协程+Flow+Retrofit+OkHttp+Repository,倾囊相授,彻底减少模版代码进阶之路，封装一套快速可以切换成不同网络请求框架的代码示例|56|2024-12-25|2024-09-24|
+|3|[wgllss/WX-Compose-Plugin](https://github.com/wgllss/WX-Compose-Plugin)|一个Demo 带你入门 Compose 用最简单的带你入门插件化 jar|17|2024-10-23|2024-10-14|
+|4|[Cdm2883/OreCompose](https://github.com/Cdm2883/OreCompose)|Compose Multiplatform 类《我的世界》基岩版新 UI 风格组件库|17|2025-03-29|2024-05-04|
+|5|[EternalmBlue/YunBanKe-AutoSign](https://github.com/EternalmBlue/YunBanKe-AutoSign)|蓝墨云云班课自动签到程序，可签所有课程，轮询签到|13|2024-11-28|2024-05-11|
+|6|[fuqiuluo/CxKittyForAndroid](https://github.com/fuqiuluo/CxKittyForAndroid)|在安卓上快捷的使用CxKitty学习通刷课|10|2025-02-06|2024-11-21|
+|7|[LatiosInAltoMare/IDEA-Plugin-Javice](https://github.com/LatiosInAltoMare/IDEA-Plugin-Javice)|面向南科大CS109课程的IntelliJ IDEA AI助手插件|9|2025-03-25|2025-03-11|
+|8|[ruby-ya/share-demo](https://github.com/ruby-ya/share-demo)|直接将图片分享为表情包|8|2025-01-09|2024-06-17|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -17,4 +21,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

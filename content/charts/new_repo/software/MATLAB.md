@@ -1,49 +1,42 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-06-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate](https://github.com/NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate)|络石机械臂动力学相关算法以及仿真|17|2024-05-03|2023-07-19|
-|2|[FMOTs/FMOT_matlab](https://github.com/FMOTs/FMOT_matlab)|FMOT的matlab基础开发版本|16|2024-05-28|2024-05-28|
-|3|[T990820/radar-communication-signal-waveform-generator](https://github.com/T990820/radar-communication-signal-waveform-generator)|本仓库的代码用于雷达/通信信号波形的仿真与时频分析|14|2024-05-28|2024-02-19|
-|4|[LZH20001220/HuaweiCup2023](https://github.com/LZH20001220/HuaweiCup2023)|华为杯第二十届中国研究生数学建模竞赛|14|2023-12-04|2023-11-29|
-|5|[brian09088/NB-IoT-support-for-NTN](https://github.com/brian09088/NB-IoT-support-for-NTN)|5G NB-IoT support NTN 非地面網路(衛星通訊)|12|2024-05-16|2023-08-15|
-|6|[fkby48/Image-Processing-by-DWT](https://github.com/fkby48/Image-Processing-by-DWT)|使用小波变换对图像进行处理，包括图像融合、图像降噪、图像压缩和图像隐藏（Using wavelet transform for image processing, including image fusion, image denoising, image compression, and image hiding）|10|2024-05-13|2024-01-24|
-|7|[autodotua/my_roms_tools](https://github.com/autodotua/my_roms_tools)|基于MATLAB的ROMS预处理、后处理工具包|9|2024-05-09|2023-11-21|
-|8|[JoeyBGOfficial/Through-the-Wall-Radar-Human-Activity-Recognition-Based-on-M-D-Corner-Feature-and-Non-Local-Net](https://github.com/JoeyBGOfficial/Through-the-Wall-Radar-Human-Activity-Recognition-Based-on-M-D-Corner-Feature-and-Non-Local-Net)|This repository is the open source code for our latest feasibility work: "Human Anomalous Gait Termination Recognition Via Through-the-Wall Radar Based on Micro-Doppler Corner Features and Non-Local M ...|9|2024-01-16|2023-10-24|
-|9|[linggm3/2023_CUMCM_National-First-Prize](https://github.com/linggm3/2023_CUMCM_National-First-Prize)|2023年高教社杯全国大学生数学建模竞赛-本科组全国一等奖-A题-定日镜场优化设计模型|8|2024-03-01|2024-03-01|
-|10|[wong-cf/phase_revocery](https://github.com/wong-cf/phase_revocery)|相位恢复算法相关的几种算法，包括角谱迭代算法，GS算法，TTIE强度方程恢复算法，以及算法的结合。|8|2024-01-02|2024-01-02|
-|11|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|8|2024-03-25|2023-10-25|
-|12|[LeonYew-SWPU/VLPR-Based-On-MATLAB](https://github.com/LeonYew-SWPU/VLPR-Based-On-MATLAB)|基于 MATLAB 的车牌识别系统，数字图像处理期末大作业。|7|2024-05-06|2024-05-04|
-|13|[flyQQQHddd/pattern-recognition](https://github.com/flyQQQHddd/pattern-recognition)|模式识别|7|2024-04-11|2024-04-11|
-|14|[WeianHuang23/Dispersion-assisted_High-dimensional_Photodetector](https://github.com/WeianHuang23/Dispersion-assisted_High-dimensional_Photodetector)|数据集的创建|7|2024-04-03|2024-04-01|
-|15|[Z-G-Zhou/Modelling-and-Motion-Planning-Research-of-Wheeled-Mobile-Manipulator](https://github.com/Z-G-Zhou/Modelling-and-Motion-Planning-Research-of-Wheeled-Mobile-Manipulator)|针对解决轮式移动机械臂在复杂环境中执行灵巧作业的需求，开展了面向冗余轮式移动机械臂的考虑任务优先级的位形优化研究。首先建立了整机运动学模型，然后基于任务优先级框架开展了面向车-臂双轨迹跟踪、避奇异位形、避关节极限等多任务目标的位形优化的研究，最后进行了复杂工况仿真，验证了方法的有效性。|7|2024-03-13|2024-03-13|
-|16|[Dramwig/Optimization-Algorithms-Comparison](https://github.com/Dramwig/Optimization-Algorithms-Comparison)|比较和分析不同启发式算法（包括GA、CGWO、PSO和AOA）的收敛曲线，使用MATLAB编写|7|2024-01-13|2023-12-06|
-|17|[Matthew-Lyu/Classic-Image-Processing-Analysis](https://github.com/Matthew-Lyu/Classic-Image-Processing-Analysis)|Classic image processing and analysis methods|7|2024-06-01|2023-06-20|
-|18|[huee-ops/XDU-Communication_principle_homework](https://github.com/huee-ops/XDU-Communication_principle_homework)|西电电院通信原理大作业|6|2023-12-23|2023-12-21|
-|19|[deltaRing/UAV_Path_Search](https://github.com/deltaRing/UAV_Path_Search)|本工程将借助ESDF、TSDF、Dstar、B样条曲线、以及多项式路径来实现无人机路径规划|6|2023-12-19|2023-07-24|
-|20|[vectorZeng/hzbmmc2024-B](https://github.com/vectorZeng/hzbmmc2024-B)|2024年华中杯数学建模比赛 B题 使用行车轨迹估计交通信号灯周期问题|5|2024-05-21|2024-04-21|
-|21|[linggm3/SYSU_Digital-Image-Processing](https://github.com/linggm3/SYSU_Digital-Image-Processing)|2023年中山大学计算机学院谢晓华老师的数图（数字图像处理）项目|5|2024-03-01|2024-03-01|
-|22|[highskyno1/SAR_imaging_with_RD_CS_wk](https://github.com/highskyno1/SAR_imaging_with_RD_CS_wk)|基于RD、CS和ωk算法的合成孔径雷达成像算法原理与实现|5|2024-02-04|2024-02-04|
-|23|[G0ODJ/mls_fitcurve-surface-](https://github.com/G0ODJ/mls_fitcurve-surface-)|这是用移动最小二乘法来拟合曲线曲面的matlab代码|5|2023-12-08|2023-12-08|
-|24|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment  - Spring 2024 Imperial College London|4|2024-05-23|2024-03-11|
-|25|[linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge](https://github.com/linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge)|2022年深圳杯数学建模挑战赛-全国第二-B题-基于用电可靠性的配电网规划模型|4|2024-03-01|2024-03-01|
-|26|[HelioAB/CableSSB-zh](https://github.com/HelioAB/CableSSB-zh)|提供了一个专为桥梁工程设计的通用框架，它能够支持创建包括斜拉桥、悬索桥、斜拉-悬索协作体系桥梁在内的几乎所有类型的缆索承重桥梁的物理模型，并可以将其导入到ANSYS中进行有限元分析。基于MATLAB编写，本框架旨在为桥梁工程师和研究人员提供一个强大、灵活的工具，以促进缆索承重桥梁的分析和研究。|4|2024-04-26|2024-02-29|
-|27|[Joe-Hall-Lee/hc_lzp](https://github.com/Joe-Hall-Lee/hc_lzp)|清风数学建模。|4|2024-02-05|2024-02-05|
-|28|[Aitherqwq/dsp_integrate_e_demo](https://github.com/Aitherqwq/dsp_integrate_e_demo)|数字信号处理大作业，语音处理|4|2024-03-16|2023-12-30|
-|29|[Septemc/MATLAB-I-NSGA2-Site-Selection](https://github.com/Septemc/MATLAB-I-NSGA2-Site-Selection)|使用多目标免疫遗传算法计算较简化海上救援选址问题|4|2023-12-28|2023-11-03|
-|30|[Lunite-Margatroid/DSP-DF-design](https://github.com/Lunite-Margatroid/DSP-DF-design)|matlab数字滤波器设计，代码实现。|4|2023-12-14|2023-10-25|
-|31|[Sunshine00001/-matlab-](https://github.com/Sunshine00001/-matlab-)|（1）设置车辆参数及其他车辆信息。 （2）系统应该能够根据输入的车辆和停车位信息，自动生成最佳路径规划方案。 （3）考虑到实际应用场景，系统应能够处理不同路况、停车位大小和停车要求等多种情况。 （4）仿真与分析，对所得结果的有效性进行验证。 （5）系统应该具备一定的健壮性和鲁棒性，能够处理异常情况并给出合理的解决方案。 （6）完善平行泊车路径规划程序，通过设计GUI界面展示泊车路径规划。|3|2024-04-08|2024-04-08|
-|32|[INSofHUST/Distributed-Optimization](https://github.com/INSofHUST/Distributed-Optimization)|基于一致性的分布式优化算法样例。|3|2024-01-25|2024-01-14|
-|33|[lsyanling/DLUT-Matrix-Numerical-Analysis](https://github.com/lsyanling/DLUT-Matrix-Numerical-Analysis)|大连理工大学矩阵与数值分析|3|2023-12-17|2023-12-17|
-|34|[BowerShi/stokes-multigrid](https://github.com/BowerShi/stokes-multigrid)|Final project @ Numerical Linear Algebra (数值代数) at Peking University - solving the Stokes equation using the MAC scheme and multigrid methods.|3|2023-12-02|2023-12-02|
-|35|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-04-27|2023-10-24|
-|36|[Chang-huilin/MyMasterLearning](https://github.com/Chang-huilin/MyMasterLearning)|一些光谱与图像的读取，处理，和算法|3|2024-05-18|2023-10-08|
-|37|[yuyuliangyu/matlab-vine-copula](https://github.com/yuyuliangyu/matlab-vine-copula)|这是一个用matlab编写的vine-copula|3|2024-02-28|2023-09-17|
-|38|[Nome2s/InSARFilter](https://github.com/Nome2s/InSARFilter)|InSAR 中经典滤波算法的实现（MATLAB & Python）|3|2024-05-01|2023-08-07|
-|39|[SpartanB-312/MBD](https://github.com/SpartanB-312/MBD)|多体动力学，包括参考点坐标、铰链坐标（递推与半递推）、积分器、深度学习。|3|2024-01-22|2023-06-13|
+|1|[taichiorange/leba_math](https://github.com/taichiorange/leba_math)|"乐吧的数学" 使用的代码|32|2025-03-13|2024-10-05|
+|2|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Multi-uav track collaborative planning based on improved particle swarm optimization algorithm   基于改进粒子群算法的多无人机航迹协同规划|32|2024-12-11|2024-06-23|
+|3|[hhse/NoAds](https://github.com/hhse/NoAds)|NoAds插件|23|2025-03-21|2025-03-21|
+|4|[WilliamGwok/RP_Balance](https://github.com/WilliamGwok/RP_Balance)|RM2024赛季基于五连杆结构的轮足式机器人建模与仿真代码 / Modeling and Simulation Code for a Wheel-Legged Robot Based on a Five-Bar Linkage Structure in the RM2024 Season /  RM2024シーズンにおける五節リンク構造を基盤とした車輪足型ロボットのモデリングとシミュレーションコー ...|13|2024-12-02|2024-09-20|
+|5|[InTheFuture7/NSGA_II-for-FJSP](https://github.com/InTheFuture7/NSGA_II-for-FJSP)|使用 NSGAII 算法求解 FJSP 问题（柔性作业车间调度）|11|2025-02-12|2024-08-23|
+|6|[LuoQingju/ACOPF_SOCP](https://github.com/LuoQingju/ACOPF_SOCP)|Solving the Optimal Power Flow by Second-Order Cone Programming (The Second-Order Cone Relaxation of Optimal Power Flow) 二阶锥规划求解最优潮流（最优潮流的二阶锥松弛）|10|2024-11-06|2024-07-08|
+|7|[chenzeyuan1/IOrange](https://github.com/chenzeyuan1/IOrange)|一门专门为数字电路设计的编译器。支持简单的语法，可以编译出simulink仿真电路，并进行实时仿真。同时支持化简，生成真值表，卡诺图，计算最大最小项。|8|2024-10-27|2024-10-26|
+|8|[Achuan-2/volume_view](https://github.com/Achuan-2/volume_view)|用matlab绘制3d volume|8|2024-10-21|2024-10-21|
+|9|[njuptlogic/Matlab_practice_week](https://github.com/njuptlogic/Matlab_practice_week)|南京邮电大学物联网学院matlab仿真实践周，内含作业和报告|7|2024-12-08|2024-12-08|
+|10|[lxy0068/Signal-and-system-experiments](https://github.com/lxy0068/Signal-and-system-experiments)|Signal and System Experiment (Autumn 2023)|7|2024-10-11|2024-10-07|
+|11|[Chi-hong22/MB-TerrainSim](https://github.com/Chi-hong22/MB-TerrainSim)|本工具用于实现多波束声呐对海底地形的模拟采集。通过仿真AUV运动并模拟多波束声呐扫测过程，生成适用于水下SLAM研究的仿真数据集。|6|2025-02-24|2025-01-05|
+|12|[sdpd2333/XJTU-ERMAP](https://github.com/sdpd2333/XJTU-ERMAP)| 西安交通大学实验报告互帮互助项目 Xi'an Jiaotong University Experimental Report Mutual Assistance Project|6|2025-02-16|2024-07-02|
+|13|[dwdWang/Modulation-Classification-With-Pluto-SDR](https://github.com/dwdWang/Modulation-Classification-With-Pluto-SDR)|该项目为2024年ADI通达杯作品，采用深度学习识别信号调制方式，并实现位同步及频偏和相偏补偿。|5|2025-01-09|2025-01-09|
+|14|[chrishajah/SYSU_ArraySignalProcessing](https://github.com/chrishajah/SYSU_ArraySignalProcessing)|中大电通必选课阵列信号处理作业（仅供参考）|5|2024-11-16|2024-11-16|
+|15|[LiuZiyue1016/spacecraft_attitude_control](https://github.com/LiuZiyue1016/spacecraft_attitude_control)|航天器姿态智能控制|5|2024-12-15|2024-10-22|
+|16|[xe13579/image-fusion](https://github.com/xe13579/image-fusion)|中国石油大学可见光与红外光图像融合小作业(利用小波变换和拉普拉斯金字塔）|5|2025-03-10|2024-07-18|
+|17|[shannanshouyin/EKF-SLAM-2D-matlab](https://github.com/shannanshouyin/EKF-SLAM-2D-matlab)|基于matlab开发的动态可视化EKF-SLAM仿真|4|2025-02-22|2025-02-21|
+|18|[928097497/PID](https://github.com/928097497/PID)|粒子群算法|4|2024-12-19|2024-12-19|
+|19|[Emaker-uav/uav-MPC](https://github.com/Emaker-uav/uav-MPC)|四旋翼无人机的MPC仿真代码|4|2024-12-17|2024-12-09|
+|20|[Chi-hong22/CoveragePathPlannerApp](https://github.com/Chi-hong22/CoveragePathPlannerApp)|基于 MATLAB GUI 的自主水下航行器(AUV)海底探测路径规划应用程序。 集成了智能路径生成、Dubins曲线优化、障碍物避障等功能，支持实时数据可视化和AUV控制系统对接。|4|2025-03-29|2024-11-15|
+|21|[XMZhangAI/Multicollinearity_Resolution](https://github.com/XMZhangAI/Multicollinearity_Resolution)|[AJSEA]全国大学生统计建模大赛一等奖|4|2025-03-28|2024-08-31|
+|22|[cmjang/DM_Control_Matlab](https://github.com/cmjang/DM_Control_Matlab)|达妙电机matlab库函数，DM motor matlab control library function|4|2024-12-16|2024-08-01|
+|23|[nextpilot/nextpilot-simulink-toolbox](https://github.com/nextpilot/nextpilot-simulink-toolbox)|一套基于MATLAB/Simulink飞控系统开发工具箱|4|2024-10-31|2024-06-20|
+|24|[zouchenzhen/MATLAB_Sensor_Data_Processing](https://github.com/zouchenzhen/MATLAB_Sensor_Data_Processing)|基于 MATLAB 的光谱分析工具，支持 CSV 数据预处理（删除初始行/列、光源信号消除）、巴特沃斯低通滤波及局部极小值提取。处理后的光谱数据与极小值信息整合输出，并提供交互式界面配置参数、可视化结果。|3|2025-03-26|2025-03-21|
+|25|[Tippy-myu/-matlab-](https://github.com/Tippy-myu/-matlab-)|自动控制实践作业的跟瞄系统matlab仿真，加入了动图功能|3|2025-03-13|2025-03-13|
+|26|[Ineffablepyn/Bird-image-processing](https://github.com/Ineffablepyn/Bird-image-processing)|数字图像处理期末大作业：基于matlab的鸟类图像处理与鸟类识别。|3|2024-12-25|2024-12-18|
+|27|[RingMERCEDES/Missile-ASIP](https://github.com/RingMERCEDES/Missile-ASIP)|ASIP大作业|3|2024-12-14|2024-12-14|
+|28|[Wwbbbbb/radar_DTM](https://github.com/Wwbbbbb/radar_DTM)|IWR1843雷达生成雷达RTM与DTM|3|2025-03-23|2024-12-09|
+|29|[zhouzhongyoung/CQNU_Deep_Cluster](https://github.com/zhouzhongyoung/CQNU_Deep_Cluster)|重庆师范大学-国家应用数学中心 深度聚类算法研究Python/Matlab脚本仓库|3|2024-11-19|2024-11-14|
+|30|[YYuJie0608/UIQMandUCIQEandEntropy](https://github.com/YYuJie0608/UIQMandUCIQEandEntropy)|水下图像的无参考指标matlab代码|3|2024-11-11|2024-11-11|
+|31|[deltaRing/FMCW_Pulse_Radar_QPSK_Radar_BiStatic_Radar](https://github.com/deltaRing/FMCW_Pulse_Radar_QPSK_Radar_BiStatic_Radar)|FMCW雷达、脉冲雷达|3|2024-12-10|2024-11-07|
+|32|[Ltang4396/MPC_DPID](https://github.com/Ltang4396/MPC_DPID)|采用matlab2022a完成的mpc横向控制，双pid纵向控制|3|2024-11-06|2024-11-06|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -52,4 +45,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

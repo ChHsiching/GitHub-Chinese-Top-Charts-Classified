@@ -1,22 +1,18 @@
-<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > C++
-<sub>数据更新: 2024-06-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2025-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Mq-b/Loser-HomeWork](https://github.com/Mq-b/Loser-HomeWork)|卢瑟们的作业展示，答案讲解，以及一些C++知识|537|2024-05-28|2023-08-03|
-|2|[Mq-b/Modern-Cpp-templates-tutorial](https://github.com/Mq-b/Modern-Cpp-templates-tutorial)|现代C++模板教程|391|2024-06-01|2023-12-26|
-|3|[youngyangyang04/KVstorageBaseRaft-cpp](https://github.com/youngyangyang04/KVstorageBaseRaft-cpp)|【代码随想录知识星球】项目分享-基于Raft的k-v存储数据库🔥|379|2024-04-07|2023-12-07|
-|4|[1051727403/SHU-CS-Source-Share](https://github.com/1051727403/SHU-CS-Source-Share)|SHU-上大计算机资料分享汇总❤️❤️❤️|134|2024-05-20|2023-09-07|
-|5|[Mq-b/ModernCpp-ConcurrentProgramming-Tutorial](https://github.com/Mq-b/ModernCpp-ConcurrentProgramming-Tutorial)|现代C++并发编程教程|133|2024-06-01|2024-02-28|
-|6|[ffengc/Load-balanced-online-OJ-system](https://github.com/ffengc/Load-balanced-online-OJ-system)|Implement an online programming system similar to LeetCode. Multiple compilation service hosts (CR hosts) can be deployed in the background, and then oj_server service will load balance a large number ...|119|2024-05-06|2023-10-20|
-|7|[HITLittleZheng/HITCS](https://github.com/HITLittleZheng/HITCS)|哈尔滨工业大学计算机课程资料与实验HITCS课程资料交流群：824815970|110|2024-06-01|2024-01-13|
-|8|[MaaXYZ/MAABH3](https://github.com/MaaXYZ/MAABH3)|《崩坏3》小助手   A one-click tool for the daily tasks of Honkai Impact.|87|2024-02-24|2023-08-04|
-|9|[HITerltr/HIT-2022-Fall-Computer-Network](https://github.com/HITerltr/HIT-2022-Fall-Computer-Network)|哈尔滨工业大学2022秋季学期计算机网络课程实验、期末复习与相关MOOC资料|67|2024-03-09|2023-07-30|
-|10|[npu-cs/Course-Material](https://github.com/npu-cs/Course-Material)|西工大计算机专业课程攻略   npu-cs/Course-Material|61|2024-01-17|2023-07-19|
-|11|[parallel101/simdtutor](https://github.com/parallel101/simdtutor)|x86-64 SIMD矢量优化系列教程|61|2024-01-22|2023-06-16|
-|12|[MoonforDream/Data-Structure-and-Algorithms](https://github.com/MoonforDream/Data-Structure-and-Algorithms)|Some data structures and algorithms implemented in C++(数据结构与算法学习笔记C++版)|32|2024-01-09|2024-01-08|
+|1|[fjz13/UnrealSpecifiers](https://github.com/fjz13/UnrealSpecifiers)|UE5标识符详解，包含100多个标识符以及300多个meta的解释和示例。Detailed Explanation of UE5 Identifiers, including over 100 identifiers and explanations and examples for more than 300 meta tags.|728|2024-11-21|2024-04-04|
+|2|[xuwd1/wemeet-wayland-screenshare](https://github.com/xuwd1/wemeet-wayland-screenshare)|实现Linux Wayland下腾讯会议屏幕共享（非虚拟相机）. Hook library that enables screenshare with Tencent Wemeet on Linux Wayland, without the need of using virtual cameras.|291|2025-03-03|2024-11-19|
+|3|[ChanIok/SpinningMomo](https://github.com/ChanIok/SpinningMomo)|一个为《无限暖暖》提升游戏摄影体验的窗口调整工具。  A window adjustment tool for Infinity Nikki that enhances in-game photography.|221|2025-03-31|2024-12-15|
+|4|[youngyangyang04/coroutine-lib](https://github.com/youngyangyang04/coroutine-lib)|【代码随想录知识星球】项目分享-手撕协程库（CPP）🔥|207|2025-01-15|2024-06-24|
+|5|[youngyangyang04/KamaCache](https://github.com/youngyangyang04/KamaCache)|【代码随想录知识星球】项目分享-cache的实现（LRU，LFU，ARC）|163|2025-02-10|2024-12-06|
+|6|[huoji120/APT_Step_Bear_Inject](https://github.com/huoji120/APT_Step_Bear_Inject)|复现《EDR的梦魇：Storm-0978使用新型内核注入技术“Step Bear”》|127|2024-10-27|2024-10-27|
+|7|[youngyangyang04/memory-pool](https://github.com/youngyangyang04/memory-pool)|【代码随想录知识星球】项目分享-内存池|125|2025-03-14|2024-11-25|
+|8|[jiqiu2022/ReZeroHook](https://github.com/jiqiu2022/ReZeroHook)|从0开始写一个成熟的InlineHook框架，是一个带着完整提交记录的，带着手把手教程的，支持应用层&内核层的HOOK|107|2024-12-27|2024-11-29|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -25,4 +21,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
