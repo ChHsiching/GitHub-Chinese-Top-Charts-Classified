@@ -126,23 +126,38 @@ if [ "$SAFE_MODE" = true ]; then
     exit 0
 fi
 
-# 先备份重要的本地文件
-IMPORTANT_FILES=(".gitignore" ".github" "CLAUDE.md" "scripts")
-for file in "${IMPORTANT_FILES[@]}"; do
+# 重要文件和目录保护
+PROTECTED_FILES=(".gitignore" ".github" "CLAUDE.md" "scripts")
+log "备份重要本地文件..."
+
+# 创建临时备份目录
+PROTECTED_BACKUP_DIR="/tmp/protected_backup_$(date +%s)"
+mkdir -p "$PROTECTED_BACKUP_DIR"
+
+# 备份重要文件
+for file in "${PROTECTED_FILES[@]}"; do
     if [ -e "$file" ]; then
-        log "备份本地文件: $file"
-        cp -r "$file" "/tmp/local_backup_$(basename "$file")-$(date +%s)" 2>/dev/null || true
+        log "备份保护文件: $file"
+        cp -r "$file" "$PROTECTED_BACKUP_DIR/" 2>/dev/null || true
     fi
 done
 
 # 复制Gitee内容，但跳过一些重要的配置目录
+log "复制Gitee仓库内容..."
 cp -r "$TEMP_DIR"/* . 2>/dev/null || true
 cp -r "$TEMP_DIR"/.* . 2>/dev/null || true
 
-# 确保保留重要的本地配置
-if [ ! -f ".gitignore" ] && [ -f "/tmp/local_backup_gitignore-"* ]; then
-    cp "/tmp/local_backup_gitignore-"* .gitignore 2>/dev/null || true
-fi
+# 恢复重要文件
+log "恢复重要本地文件..."
+for file in "${PROTECTED_FILES[@]}"; do
+    if [ -e "$PROTECTED_BACKUP_DIR/$(basename "$file")" ]; then
+        log "恢复保护文件: $file"
+        cp -r "$PROTECTED_BACKUP_DIR/$(basename "$file")" . 2>/dev/null || true
+    fi
+done
+
+# 清理临时备份目录
+rm -rf "$PROTECTED_BACKUP_DIR" 2>/dev/null || true
 
 # 添加所有更改
 log "添加文件到Git..."
