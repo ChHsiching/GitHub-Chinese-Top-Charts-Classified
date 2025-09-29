@@ -169,17 +169,33 @@ fi
 log "切换回主分支: $CURRENT_BRANCH"
 git checkout "$CURRENT_BRANCH"
 
-# 合并备份分支
-log "合并备份分支到主分支..."
-if git merge --no-ff "$BACKUP_BRANCH" -m "合并Gitee同步: $(date '+%Y-%m-%d %H:%M:%S')"; then
-    log "合并成功"
+# 合并备份分支（仅在非安全模式下）
+if [ "$SAFE_MODE" = false ]; then
+    log "合并备份分支到主分支..."
+
+    # 检查是否有实际需要合并的内容
+    if git diff "$CURRENT_BRANCH" "$BACKUP_BRANCH" --quiet; then
+        log "没有检测到差异，跳过合并"
+    else
+        # 尝试合并
+        if git merge --no-ff "$BACKUP_BRANCH" -m "合并Gitee同步: $(date '+%Y-%m-%d %H:%M:%S')"; then
+            log "合并成功"
+        else
+            log "合并存在冲突，尝试解决..."
+
+            # 显示冲突状态
+            log "冲突文件："
+            git diff --name-only --diff-filter=U
+
+            # 解决冲突：优先采用备份分支（Gitee）版本
+            git checkout --theirs .
+            git add .
+            git commit -m "合并Gitee同步(解决冲突): $(date '+%Y-%m-%d %H:%M:%S')"
+            log "冲突已解决，采用Gitee版本"
+        fi
+    fi
 else
-    log "合并存在冲突，尝试解决..."
-    # 如果有冲突，优先采用Gitee版本
-    git checkout --theirs .
-    git add .
-    git commit -m "合并Gitee同步(解决冲突): $(date '+%Y-%m-%d %H:%M:%S')"
-    log "冲突已解决"
+    log "[安全模式] 跳过合并操作"
 fi
 
 # 显示同步结果
