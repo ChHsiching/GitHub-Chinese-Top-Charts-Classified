@@ -124,7 +124,7 @@ if [ "$SAFE_MODE" = true ]; then
     exit 0
 fi
 
-# 重要文件和目录保护
+# 重要文件和目录保护（在切换分支前备份）
 PROTECTED_FILES=(".gitignore" ".github" "CLAUDE.md" "scripts")
 log "备份重要本地文件..."
 
@@ -132,7 +132,7 @@ log "备份重要本地文件..."
 PROTECTED_BACKUP_DIR="/tmp/protected_backup_$(date +%s)"
 mkdir -p "$PROTECTED_BACKUP_DIR"
 
-# 备份重要文件（从当前分支备份，不是从TEMP_DIR）
+# 备份重要文件（从main分支备份）
 for file in "${PROTECTED_FILES[@]}"; do
     if [ -e "$file" ]; then
         log "备份保护文件: $file"
@@ -140,13 +140,17 @@ for file in "${PROTECTED_FILES[@]}"; do
     fi
 done
 
+# 确保sync.log不会造成冲突
+if [ -f "sync.log" ]; then
+    rm -f sync.log 2>/dev/null || true
+fi
+
 # 复制Gitee内容，但跳过一些重要的配置目录
 log "复制Gitee仓库内容..."
-# 只复制非Git文件，避免分支配置问题
+# 只复制内容文件，不复制Git配置文件
 cp -r "$TEMP_DIR"/* . 2>/dev/null || true
-# 不复制.git开头的文件，避免分支配置冲突
 
-# 恢复重要文件
+# 立即恢复重要文件（在Git add之前）
 log "恢复重要本地文件..."
 for file in "${PROTECTED_FILES[@]}"; do
     if [ -e "$PROTECTED_BACKUP_DIR/$(basename "$file")" ]; then
@@ -157,19 +161,6 @@ done
 
 # 清理临时备份目录
 rm -rf "$PROTECTED_BACKUP_DIR" 2>/dev/null || true
-
-# 确保sync.log不会被Git跟踪
-if [ -f "sync.log" ]; then
-    rm -f sync.log 2>/dev/null || true
-fi
-
-# 确保我们在正确的分支上
-CURRENT_BRANCH_CHECK=$(git branch --show-current)
-if [ "$CURRENT_BRANCH_CHECK" != "$BACKUP_BRANCH" ]; then
-    log "警告：当前分支是 $CURRENT_BRANCH_CHECK，应该是 $BACKUP_BRANCH"
-    log "重新切换到备份分支..."
-    git checkout "$BACKUP_BRANCH" 2>/dev/null || true
-fi
 
 # 添加所有更改
 log "添加文件到Git..."
