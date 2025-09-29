@@ -142,8 +142,9 @@ done
 
 # 复制Gitee内容，但跳过一些重要的配置目录
 log "复制Gitee仓库内容..."
+# 只复制非Git文件，避免分支配置问题
 cp -r "$TEMP_DIR"/* . 2>/dev/null || true
-cp -r "$TEMP_DIR"/.* . 2>/dev/null || true
+# 不复制.git开头的文件，避免分支配置冲突
 
 # 恢复重要文件
 log "恢复重要本地文件..."
@@ -160,6 +161,14 @@ rm -rf "$PROTECTED_BACKUP_DIR" 2>/dev/null || true
 # 确保sync.log不会被Git跟踪
 if [ -f "sync.log" ]; then
     rm -f sync.log 2>/dev/null || true
+fi
+
+# 确保我们在正确的分支上
+CURRENT_BRANCH_CHECK=$(git branch --show-current)
+if [ "$CURRENT_BRANCH_CHECK" != "$BACKUP_BRANCH" ]; then
+    log "警告：当前分支是 $CURRENT_BRANCH_CHECK，应该是 $BACKUP_BRANCH"
+    log "重新切换到备份分支..."
+    git checkout "$BACKUP_BRANCH" 2>/dev/null || true
 fi
 
 # 添加所有更改
