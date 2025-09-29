@@ -16,6 +16,17 @@
 
 set -e  # 遇到错误立即退出
 
+# 日志函数
+log() {
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] $1" | tee -a "$LOG_FILE"
+}
+
+# 错误处理函数
+handle_error() {
+    log "错误: $1"
+    exit 1
+}
+
 # 配置变量
 GITEE_REPO_URL="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts.git"
 TEMP_DIR="/tmp/gitee-repo-$(date +%s)"
@@ -28,17 +39,6 @@ if [ "$1" = "--safe" ] || [ "$1" = "-s" ]; then
     SAFE_MODE=true
     log "安全模式启用 - 只检查不执行实际同步"
 fi
-
-# 日志函数
-log() {
-    echo "[$(date '+%Y-%m-%d %H:%M:%S')] $1" | tee -a "$LOG_FILE"
-}
-
-# 错误处理函数
-handle_error() {
-    log "错误: $1"
-    exit 1
-}
 
 # 清理函数
 cleanup() {
