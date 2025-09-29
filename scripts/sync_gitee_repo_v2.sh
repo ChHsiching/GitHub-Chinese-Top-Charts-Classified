@@ -169,7 +169,7 @@ git checkout "$CURRENT_BRANCH"
 
 # 合并备份分支
 log "合并备份分支到主分支..."
-if git merge --no-ff "$BACKUP_BRANCH" -m "合并Gitee同步: $(date '+%Y-%m-%d %H:%M:%S')"; then
+if git merge --no-ff "$BACKUP_BRANCH" -m "合并Gitee同步: $(date '+%Y-%m-%d %H:%M:%S')" --allow-unrelated-histories; then
     log "合并成功"
 else
     log "合并存在冲突，尝试解决..."
