@@ -2,6 +2,17 @@
 
 # Gitee到GitHub仓库同步脚本
 # 定期从Gitee克隆最新内容并同步到GitHub仓库
+#
+# 使用方法:
+#   ./scripts/sync_gitee_repo.sh      # 正常执行同步
+#   ./scripts/sync_gitee_repo.sh --safe  # 安全模式，只检查不执行
+#   ./scripts/sync_gitee_repo.sh -s     # 安全模式缩写
+#
+# 安全模式可以用来:
+#   - 测试Gitee仓库连接
+#   - 检查文件结构
+#   - 验证重要文件是否存在
+#   - 避免意外修改本地仓库
 
 set -e  # 遇到错误立即退出
 
@@ -10,6 +21,13 @@ GITEE_REPO_URL="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts.git"
 TEMP_DIR="/tmp/gitee-repo-$(date +%s)"
 BACKUP_BRANCH="gitee-backup"
 LOG_FILE="sync.log"
+SAFE_MODE=false  # 安全模式，只检查不执行
+
+# 检查安全模式参数
+if [ "$1" = "--safe" ] || [ "$1" = "-s" ]; then
+    SAFE_MODE=true
+    log "安全模式启用 - 只检查不执行实际同步"
+fi
 
 # 日志函数
 log() {
@@ -48,7 +66,15 @@ fi
 
 # 获取当前分支
 CURRENT_BRANCH=$(git branch --show-current)
+if [ -z "$CURRENT_BRANCH" ]; then
+    CURRENT_BRANCH="main"  # 默认分支
+fi
 log "当前分支: $CURRENT_BRANCH"
+
+# 检查是否在正确的分支上
+if [ "$CURRENT_BRANCH" != "main" ]; then
+    log "警告: 当前不在main分支上，可能会影响同步结果"
+fi
 
 # 克隆Gitee仓库
 log "正在克隆Gitee仓库..."
@@ -58,19 +84,65 @@ fi
 log "克隆完成"
 
 # 检查备份分支是否存在，如果不存在则创建
-if git show-ref --verify --quiet "refs/heads/$BACKUP_BRANCH"; then
-    log "切换到备份分支: $BACKUP_BRANCH"
-    git checkout "$BACKUP_BRANCH"
+if [ "$SAFE_MODE" = true ]; then
+    if git show-ref --verify --quiet "refs/heads/$BACKUP_BRANCH"; then
+        log "[安全模式] 检测到备份分支存在: $BACKUP_BRANCH"
+    else
+        log "[安全模式] 将创建新的备份分支: $BACKUP_BRANCH"
+    fi
 else
-    log "创建新的备份分支: $BACKUP_BRANCH"
-    git checkout --orphan "$BACKUP_BRANCH"
-    git rm -rf .  # 清理所有文件，但保留分支
+    if git show-ref --verify --quiet "refs/heads/$BACKUP_BRANCH"; then
+        log "切换到备份分支: $BACKUP_BRANCH"
+        git checkout "$BACKUP_BRANCH"
+    else
+        log "创建新的备份分支: $BACKUP_BRANCH"
+        git checkout --orphan "$BACKUP_BRANCH"
+        git rm -rf .  # 清理所有文件，但保留分支
+        # 保留重要的配置文件
+        if [ -f "$TEMP_DIR/.gitignore" ]; then
+            cp "$TEMP_DIR/.gitignore" . 2>/dev/null || true
+        fi
+    fi
 fi
 
-# 复制Gitee仓库内容
+# 复制Gitee仓库内容（保留重要的本地配置）
 log "正在复制Gitee仓库内容..."
-cp -r "$TEMP_DIR"/* .
-cp -r "$TEMP_DIR"/.* . 2>/dev/null || true  # 复制隐藏文件，忽略错误
+if [ "$SAFE_MODE" = true ]; then
+    log "[安全模式] 跳过文件复制和Git操作"
+
+    # 只检查Gitee仓库内容
+    GITEE_FILES=$(find "$TEMP_DIR" -name "*.md" | wc -l)
+    log "[安全模式] Gitee仓库包含 $GITEE_FILES 个Markdown文件"
+
+    # 检查重要的本地文件
+    IMPORTANT_FILES=(".gitignore" ".github" "CLAUDE.md" "scripts")
+    for file in "${IMPORTANT_FILES[@]}"; do
+        if [ -e "$file" ]; then
+            log "[安全模式] 检测到重要本地文件: $file"
+        fi
+    done
+
+    log "[安全模式] 检查完成，未执行实际操作"
+    exit 0
+fi
+
+# 先备份重要的本地文件
+IMPORTANT_FILES=(".gitignore" ".github" "CLAUDE.md" "scripts")
+for file in "${IMPORTANT_FILES[@]}"; do
+    if [ -e "$file" ]; then
+        log "备份本地文件: $file"
+        cp -r "$file" "/tmp/local_backup_$(basename "$file")-$(date +%s)" 2>/dev/null || true
+    fi
+done
+
+# 复制Gitee内容，但跳过一些重要的配置目录
+cp -r "$TEMP_DIR"/* . 2>/dev/null || true
+cp -r "$TEMP_DIR"/.* . 2>/dev/null || true
+
+# 确保保留重要的本地配置
+if [ ! -f ".gitignore" ] && [ -f "/tmp/local_backup_gitignore-"* ]; then
+    cp "/tmp/local_backup_gitignore-"* .gitignore 2>/dev/null || true
+fi
 
 # 添加所有更改
 log "添加文件到Git..."
