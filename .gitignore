@@ -1,0 +1,23 @@
+# 测试和日志文件
+*.log
+backup_test.log
+sync.log
+
+# 临时文件
+*.tmp
+*.temp
+/tmp/
+
+# 编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# GitHub Actions工作流临时文件
+SYNC_STATUS.md
