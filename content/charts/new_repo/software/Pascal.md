@@ -1,0 +1,19 @@
+<a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+
+# 中文新秀榜 > 软件类 > Pascal
+<sub>数据更新: 2025-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+
+|#|Repository|Description|Stars|Updated|Created|
+|:-|:-|:-|:-|:-|:-|
+|1|[szlbz/DataSetDelta](https://github.com/szlbz/DataSetDelta)|为lazarus增加类似delphi TClientDataSet的Delta功能|5|2024-10-25|2024-06-02|
+|2|[Pascal-Lin/FileAnalysis](https://github.com/Pascal-Lin/FileAnalysis)|基于TrIDLib库的一个GUI程序，用于分析文件的类型和扩展名。|4|2024-10-23|2024-10-16|
+|3|[dmznlin/Myriad-Voices](https://github.com/dmznlin/Myriad-Voices)|千音：基于MultiTTS开发的多国文本转语音合成系统|2|2025-03-25|2024-12-16|
+
+<div align="center">
+    <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
+    榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
+</div>
+
+<br/>
+
+<div align="center"><a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
